@@ -23,7 +23,8 @@ const IMG_DIR = join(ROOT, 'docs', 'images');
 const STYLE_DIR = join(IMG_DIR, 'styles');
 const CAT_DIR = join(IMG_DIR, 'categories', 'raw');
 
-const PWD_ID = '180767425d31';
+const PWD_ID = '9e42b69b6596';
+const PASSCODE = 'vYF5';
 const API = 'https://drive-h.quark.cn/1/clouddrive/share/sharepage';
 
 /** 精选：6 套，写 featured-0X.* */
@@ -60,7 +61,7 @@ async function getStoken() {
   const res = await fetch(`${API}/token?pr=ucpro&fr=pc`, {
     method: 'POST',
     headers: { 'content-type': 'application/json' },
-    body: JSON.stringify({ pwd_id: PWD_ID, passcode: '' }),
+    body: JSON.stringify({ pwd_id: PWD_ID, passcode: PASSCODE }),
   });
   const json = await res.json();
   if (json.code !== 0) throw new Error(`token 失败: ${json.message}`);

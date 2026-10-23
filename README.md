@@ -13,7 +13,7 @@
 
 **快速导航**　[🌐 在线浏览](https://hiwoniu.github.io/ppt-template-library/) · [🖼 本地浏览页](docs/gallery.html) · [分类墙](#分类墙) · [精选六套](#精选模板) · [目录结构](#目录结构示例) · [怎么用](#怎么用) · [完整目录](docs/CATALOG.md) · [结构化数据](data/catalog.json)
 
-> **打不开链接？** 分享页对短时间内的连续跳转比较敏感：先打开[分享首页](https://pan.quark.cn/s/180767425d31)，等 1–2 秒再点分类；还是打不开就刷新一次页面，或直接在首页按分类名查找。
+> **打不开链接？** 分享页对短时间内的连续跳转比较敏感：先打开[分享首页](https://pan.quark.cn/s/9e42b69b6596?pwd=vYF5)，等 1–2 秒再点分类；还是打不开就刷新一次页面，或直接在首页按分类名查找。
 
 ---
 
@@ -28,7 +28,7 @@
 | 目录数 | 160 |
 | 总体积 | **65.9 GB** |
 | 封面/预览图 | 3479 张 |
-| 原始分享 | [pan.quark.cn/s/180767425d31](https://pan.quark.cn/s/180767425d31)（分享者：夸父\*010，永久有效） |
+| 原始分享 | [pan.quark.cn/s/9e42b69b6596](https://pan.quark.cn/s/9e42b69b6596?pwd=vYF5)（提取码 `vYF5`，永久有效） |
 
 > 源站标称 10 万套模板；本仓库只索引当前分享里实际可见的 52 个分类、3,527 套。
 
@@ -42,24 +42,24 @@
 
 |  |  |  |
 |:--:|:--:|:--:|
-| [![0极简简约](docs/images/categories/c01.webp)](https://pan.quark.cn/s/180767425d31#/list/share/4113371c3aa64dd6aa94c81c95d74ebb) | [![01高端PPT](docs/images/categories/c02.webp)](https://pan.quark.cn/s/180767425d31#/list/share/8bbd88f5f4ff42449398f194ce781b69) | [![2-年终总结](docs/images/categories/c03.webp)](https://pan.quark.cn/s/180767425d31#/list/share/43733ff9dfbd4ee8877a54b8fd373d50) |
-| [![03毕业答辩](docs/images/categories/c04.webp)](https://pan.quark.cn/s/180767425d31#/list/share/25a04bed13b04662a0662ced868a31ef) | [![04新年](docs/images/categories/c05.webp)](https://pan.quark.cn/s/180767425d31#/list/share/c127fca4512047ddad01c0977e6212f7) | [![05商务](docs/images/categories/c06.webp)](https://pan.quark.cn/s/180767425d31#/list/share/b9f165bf736749d1858f4828d5afad89) |
-| [![06教学课件](docs/images/categories/c07.webp)](https://pan.quark.cn/s/180767425d31#/list/share/22e427ebbb3648079160d59d08e0eb9a) | [![07工作总结](docs/images/categories/c08.webp)](https://pan.quark.cn/s/180767425d31#/list/share/160d8cde6f1d40ec879a0fe92a39a772) | [![8-中国风格](docs/images/categories/c09.webp)](https://pan.quark.cn/s/180767425d31#/list/share/f7888ddfeb5245459b5cc49deab09fb1) |
-| [![08求职竞聘](docs/images/categories/c10.webp)](https://pan.quark.cn/s/180767425d31#/list/share/b93cd3f84c1748e6a4697f9873d4c437) | [![9-文艺风格](docs/images/categories/c11.webp)](https://pan.quark.cn/s/180767425d31#/list/share/fa1d54cccf594c85b73c3ca37d6c2619) | [![09莫兰迪](docs/images/categories/c12.webp)](https://pan.quark.cn/s/180767425d31#/list/share/3b3f96902cd3472a8b7e1dee909c9a02) |
-| [![10鎏金风](docs/images/categories/c13.webp)](https://pan.quark.cn/s/180767425d31#/list/share/3a414d844e754e8b82a45e5283b5b7d5) | [![11科技](docs/images/categories/c14.webp)](https://pan.quark.cn/s/180767425d31#/list/share/a959005ced1d486a949d9c11e74fd89b) | [![12中式PPT](docs/images/categories/c15.webp)](https://pan.quark.cn/s/180767425d31#/list/share/be88d5c8849f4b9fb4215c75bf6c45f6) |
-| [![13-培训课件](docs/images/categories/c16.webp)](https://pan.quark.cn/s/180767425d31#/list/share/0e48b86070b444739f122e0bbd008906) | [![13颁奖](docs/images/categories/c17.webp)](https://pan.quark.cn/s/180767425d31#/list/share/cba8ce8bf41c4cc68fcc8f95797612b2) | [![15-年会颁奖](docs/images/categories/c18.webp)](https://pan.quark.cn/s/180767425d31#/list/share/e4284380073441abb52f50063f04203d) |
-| [![15婚庆爱情](docs/images/categories/c19.webp)](https://pan.quark.cn/s/180767425d31#/list/share/a8202a07c9af455090644d3c447a2ee4) | [![16-路演金融](docs/images/categories/c20.webp)](https://pan.quark.cn/s/180767425d31#/list/share/b14505ffd6c04640a7c998b9e351334a) | [![16卡通](docs/images/categories/c21.webp)](https://pan.quark.cn/s/180767425d31#/list/share/3f596f0816cc494d96fe59ec991938d5) |
-| [![17-快闪PPT模板-竖版03](docs/images/categories/c22.webp)](https://pan.quark.cn/s/180767425d31#/list/share/d8770a514cba4531a8cdffbd76f190d9) | [![17文艺](docs/images/categories/c23.webp)](https://pan.quark.cn/s/180767425d31#/list/share/7f395119c43848fb9b2895b27192c036) | [![18-快闪PPT模板-宽版05](docs/images/categories/c24.webp)](https://pan.quark.cn/s/180767425d31#/list/share/2899e0beb3b74f1090dab2e1d13f108e) |
-| [![18动态PPT](docs/images/categories/c25.webp)](https://pan.quark.cn/s/180767425d31#/list/share/21083b071a154cbcaa5064763969ea41) | [![19-快闪PPT模板-宽版04](docs/images/categories/c26.webp)](https://pan.quark.cn/s/180767425d31#/list/share/008d8159d5a84d039dcbb46a3f96c9ab) | [![19快闪](docs/images/categories/c27.webp)](https://pan.quark.cn/s/180767425d31#/list/share/426a515d0e0042deaac610bb220cc63c) |
-| [![20-快闪PPT模板-宽版02](docs/images/categories/c28.webp)](https://pan.quark.cn/s/180767425d31#/list/share/7fcdc8aefddd4421aebf75b98d0f61aa) | [![20绿色环保](docs/images/categories/c29.webp)](https://pan.quark.cn/s/180767425d31#/list/share/776eacc7ea9041e8b4411c6f33174e0b) | [![21-快闪PPT模板-宽版01](docs/images/categories/c30.webp)](https://pan.quark.cn/s/180767425d31#/list/share/3234c6f57f8449ae9069e4432f105a0d) |
-| [![21IOS](docs/images/categories/c31.webp)](https://pan.quark.cn/s/180767425d31#/list/share/9bd8d63e970242e18f8c22b845815809) | [![22剪纸风](docs/images/categories/c32.webp)](https://pan.quark.cn/s/180767425d31#/list/share/835ffc7fd30c4da78016e5e8daaa315b) | [![23美食](docs/images/categories/c33.webp)](https://pan.quark.cn/s/180767425d31#/list/share/a12fe01178f14a03a89095c8e4216c59) |
-| [![24国潮](docs/images/categories/c34.webp)](https://pan.quark.cn/s/180767425d31#/list/share/339bcab192a74bfda1939582f4a97f64) | [![25朋克](docs/images/categories/c35.webp)](https://pan.quark.cn/s/180767425d31#/list/share/35e0deed419540fd95d537fa3c6cb6ed) | [![26-个人简历](docs/images/categories/c36.webp)](https://pan.quark.cn/s/180767425d31#/list/share/da34c3ee751b400bb70568d9d8f3d842) |
-| [![26竞选-小学生](docs/images/categories/c37.webp)](https://pan.quark.cn/s/180767425d31#/list/share/7291e71549c04253906e508cc485761e) | [![27欧美大气](docs/images/categories/c38.webp)](https://pan.quark.cn/s/180767425d31#/list/share/66607e79e0004d54a4916f7dba6f4f3c) | [![28-创意风格](docs/images/categories/c39.webp)](https://pan.quark.cn/s/180767425d31#/list/share/c323566d235b4fc3b1eef8fcd5013258) |
-| [![29-产品发布](docs/images/categories/c40.webp)](https://pan.quark.cn/s/180767425d31#/list/share/5e16e6bf41be45368ff04053bbb02365) | [![30-扁平风格](docs/images/categories/c41.webp)](https://pan.quark.cn/s/180767425d31#/list/share/101c49b9dca44d96b114009c3f3887b0) | [![36-手绘风格](docs/images/categories/c42.webp)](https://pan.quark.cn/s/180767425d31#/list/share/857959c15d844cdf849b1f5e27e4cd92) |
-| [![49-室内设计](docs/images/categories/c43.webp)](https://pan.quark.cn/s/180767425d31#/list/share/cae0655b760f465aa9f35deaf294a5d3) | [![50-城市建设](docs/images/categories/c44.webp)](https://pan.quark.cn/s/180767425d31#/list/share/27bab26db8f7476a8c094c2d60188d7a) | [![52-餐饮美食](docs/images/categories/c45.webp)](https://pan.quark.cn/s/180767425d31#/list/share/837985d995a24ecf9f4ce2f2240bfebf) |
-| [![200套精选卡通模板](docs/images/categories/c46.webp)](https://pan.quark.cn/s/180767425d31#/list/share/6de2aaf66202489d8a54b51dd4e89dc3) | [![A44-04-年终工作总结汇报PPT](docs/images/categories/c47.webp)](https://pan.quark.cn/s/180767425d31#/list/share/e4aa197f421547a8a0809d951efb8402) | [![A44-05-年终工作总结汇报PPT](docs/images/categories/c48.webp)](https://pan.quark.cn/s/180767425d31#/list/share/6d20e48adaea42b6a604f879c7d1458c) |
-| [![A44-06-年终工作总结汇报PPT](docs/images/categories/c49.webp)](https://pan.quark.cn/s/180767425d31#/list/share/d1e9230343fe45ac88a74107db2f25f5) | [![高级感简约古风教学](docs/images/categories/c50.webp)](https://pan.quark.cn/s/180767425d31#/list/share/eddd8805f9f14bc19da51dc086d412c6) | [![H023-项目策划](docs/images/categories/c51.webp)](https://pan.quark.cn/s/180767425d31#/list/share/552df0bf74284047863a49c0953888c1) |
-| [![PPT源文件](docs/images/categories/c52.webp)](https://pan.quark.cn/s/180767425d31#/list/share/4433dfe967bd46db850591d957c383d9) |
+| [![0极简简约](docs/images/categories/c01.webp)](https://pan.quark.cn/s/9e42b69b6596?pwd=vYF5#/list/share/2ed6276b38154209b0d60a7a2400f09b) | [![01高端PPT](docs/images/categories/c02.webp)](https://pan.quark.cn/s/9e42b69b6596?pwd=vYF5#/list/share/79678bdc9d184e3aa0bb60f6a35b6b3e) | [![2-年终总结](docs/images/categories/c03.webp)](https://pan.quark.cn/s/9e42b69b6596?pwd=vYF5#/list/share/13d6d9bcdeda45f380705a0c955b1d59) |
+| [![03毕业答辩](docs/images/categories/c04.webp)](https://pan.quark.cn/s/9e42b69b6596?pwd=vYF5#/list/share/82228f1a5fcb4fdca5bf2d884ffb7ab3) | [![04新年](docs/images/categories/c05.webp)](https://pan.quark.cn/s/9e42b69b6596?pwd=vYF5#/list/share/3c4d52966da24e0ea81e12a58b2d6b41) | [![05商务](docs/images/categories/c06.webp)](https://pan.quark.cn/s/9e42b69b6596?pwd=vYF5#/list/share/051345e9741c4d069e11564e7eb000b0) |
+| [![06教学课件](docs/images/categories/c07.webp)](https://pan.quark.cn/s/9e42b69b6596?pwd=vYF5#/list/share/85e7789cd6da4847941b58e0aae27816) | [![07工作总结](docs/images/categories/c08.webp)](https://pan.quark.cn/s/9e42b69b6596?pwd=vYF5#/list/share/ee21de7f5fbe4007a8705cae58ae160d) | [![8-中国风格](docs/images/categories/c09.webp)](https://pan.quark.cn/s/9e42b69b6596?pwd=vYF5#/list/share/f3aadad40b0b4a96add9802b75fa8563) |
+| [![08求职竞聘](docs/images/categories/c10.webp)](https://pan.quark.cn/s/9e42b69b6596?pwd=vYF5#/list/share/e033a1aa576441689e6530003688e460) | [![9-文艺风格](docs/images/categories/c11.webp)](https://pan.quark.cn/s/9e42b69b6596?pwd=vYF5#/list/share/fa7ee94d0a544de69cb290d328e06777) | [![09莫兰迪](docs/images/categories/c12.webp)](https://pan.quark.cn/s/9e42b69b6596?pwd=vYF5#/list/share/a07195785dec418da7f7e660b547da4e) |
+| [![10鎏金风](docs/images/categories/c13.webp)](https://pan.quark.cn/s/9e42b69b6596?pwd=vYF5#/list/share/9f94ce269b02492c87db1c17ba4342ab) | [![11科技](docs/images/categories/c14.webp)](https://pan.quark.cn/s/9e42b69b6596?pwd=vYF5#/list/share/1fbc7969a2ca4f99872b24e6e43e88fb) | [![12中式PPT](docs/images/categories/c15.webp)](https://pan.quark.cn/s/9e42b69b6596?pwd=vYF5#/list/share/7233aeb62bc94314852b18c64e5d381b) |
+| [![13-培训课件](docs/images/categories/c16.webp)](https://pan.quark.cn/s/9e42b69b6596?pwd=vYF5#/list/share/83820b466dc44d0bb80cbfc309c56abe) | [![13颁奖](docs/images/categories/c17.webp)](https://pan.quark.cn/s/9e42b69b6596?pwd=vYF5#/list/share/b56e16540bfe4abda7bc2656125541d0) | [![15-年会颁奖](docs/images/categories/c18.webp)](https://pan.quark.cn/s/9e42b69b6596?pwd=vYF5#/list/share/b88cc71421f24d8ab2cde149ad01a904) |
+| [![15婚庆爱情](docs/images/categories/c19.webp)](https://pan.quark.cn/s/9e42b69b6596?pwd=vYF5#/list/share/c76f01da1a654c9d993d8228f73a1d5a) | [![16-路演金融](docs/images/categories/c20.webp)](https://pan.quark.cn/s/9e42b69b6596?pwd=vYF5#/list/share/563de49aca574ec1bd41ca2a8a66f533) | [![16卡通](docs/images/categories/c21.webp)](https://pan.quark.cn/s/9e42b69b6596?pwd=vYF5#/list/share/554440e18b3e47aea5675401b1248cba) |
+| [![17-快闪PPT模板-竖版03](docs/images/categories/c22.webp)](https://pan.quark.cn/s/9e42b69b6596?pwd=vYF5#/list/share/58181fd7968b4e4aaf07b0db4c50737e) | [![17文艺](docs/images/categories/c23.webp)](https://pan.quark.cn/s/9e42b69b6596?pwd=vYF5#/list/share/a877c8c2487343c791ce768df6940fec) | [![18-快闪PPT模板-宽版05](docs/images/categories/c24.webp)](https://pan.quark.cn/s/9e42b69b6596?pwd=vYF5#/list/share/cbad97c77841403686c4dc053f6f75b6) |
+| [![18动态PPT](docs/images/categories/c25.webp)](https://pan.quark.cn/s/9e42b69b6596?pwd=vYF5#/list/share/455da4bd5f4e4ce7ab18ed9a8cae5ae1) | [![19-快闪PPT模板-宽版04](docs/images/categories/c26.webp)](https://pan.quark.cn/s/9e42b69b6596?pwd=vYF5#/list/share/b2c2b70a02a4499986b71705cefd077f) | [![19快闪](docs/images/categories/c27.webp)](https://pan.quark.cn/s/9e42b69b6596?pwd=vYF5#/list/share/2b30e8ce256543d5a6dd2bc7793ad8d8) |
+| [![20-快闪PPT模板-宽版02](docs/images/categories/c28.webp)](https://pan.quark.cn/s/9e42b69b6596?pwd=vYF5#/list/share/d281039dc3be4a7daa528f55013ab81f) | [![20绿色环保](docs/images/categories/c29.webp)](https://pan.quark.cn/s/9e42b69b6596?pwd=vYF5#/list/share/348cd2b72a7242b8be07033e606fb69d) | [![21-快闪PPT模板-宽版01](docs/images/categories/c30.webp)](https://pan.quark.cn/s/9e42b69b6596?pwd=vYF5#/list/share/42ea6693d066425bb410423b6067ba8b) |
+| [![21IOS](docs/images/categories/c31.webp)](https://pan.quark.cn/s/9e42b69b6596?pwd=vYF5#/list/share/403b9604ed614e39b7c1b9b2fe4efd46) | [![22剪纸风](docs/images/categories/c32.webp)](https://pan.quark.cn/s/9e42b69b6596?pwd=vYF5#/list/share/abce9f3446bf42fe95a765d1cdd5aff2) | [![23美食](docs/images/categories/c33.webp)](https://pan.quark.cn/s/9e42b69b6596?pwd=vYF5#/list/share/a0b15d62555d404a9ca9bf9428774855) |
+| [![24国潮](docs/images/categories/c34.webp)](https://pan.quark.cn/s/9e42b69b6596?pwd=vYF5#/list/share/23b5fa1b2da44185b17d2868a1504a25) | [![25朋克](docs/images/categories/c35.webp)](https://pan.quark.cn/s/9e42b69b6596?pwd=vYF5#/list/share/c092818953a145e58026659eebfd580d) | [![26-个人简历](docs/images/categories/c36.webp)](https://pan.quark.cn/s/9e42b69b6596?pwd=vYF5#/list/share/d8d3ec0421184a6c85c5a1fcb0b7561c) |
+| [![26竞选-小学生](docs/images/categories/c37.webp)](https://pan.quark.cn/s/9e42b69b6596?pwd=vYF5#/list/share/35822fc8befb4f07a59ff0c325cd1aec) | [![27欧美大气](docs/images/categories/c38.webp)](https://pan.quark.cn/s/9e42b69b6596?pwd=vYF5#/list/share/98b21c39d4424693a1470dcfaf4433de) | [![28-创意风格](docs/images/categories/c39.webp)](https://pan.quark.cn/s/9e42b69b6596?pwd=vYF5#/list/share/a28b035c9a8744f98fff6674554f51cc) |
+| [![29-产品发布](docs/images/categories/c40.webp)](https://pan.quark.cn/s/9e42b69b6596?pwd=vYF5#/list/share/9301bf07fe7d40a78b232138174b7d75) | [![30-扁平风格](docs/images/categories/c41.webp)](https://pan.quark.cn/s/9e42b69b6596?pwd=vYF5#/list/share/48124fef3fd7486bb7fa9ac77fc93c1b) | [![36-手绘风格](docs/images/categories/c42.webp)](https://pan.quark.cn/s/9e42b69b6596?pwd=vYF5#/list/share/022cb1fe457a4983a443bd6e0bb30f1e) |
+| [![49-室内设计](docs/images/categories/c43.webp)](https://pan.quark.cn/s/9e42b69b6596?pwd=vYF5#/list/share/321c9a2b67e24ce6a5e7d83ba0fd1c63) | [![50-城市建设](docs/images/categories/c44.webp)](https://pan.quark.cn/s/9e42b69b6596?pwd=vYF5#/list/share/dbdcd5933a3e4e389f2ba01cc5296554) | [![52-餐饮美食](docs/images/categories/c45.webp)](https://pan.quark.cn/s/9e42b69b6596?pwd=vYF5#/list/share/e9128d6cea1c4820b5f6fd9657b1c6fc) |
+| [![200套精选卡通模板](docs/images/categories/c46.webp)](https://pan.quark.cn/s/9e42b69b6596?pwd=vYF5#/list/share/fad97ed6c28d450fb1b92ee9e6eff25c) | [![A44-04-年终工作总结汇报PPT](docs/images/categories/c47.webp)](https://pan.quark.cn/s/9e42b69b6596?pwd=vYF5#/list/share/91644cc221c04cf7b63562c438730cfd) | [![A44-05-年终工作总结汇报PPT](docs/images/categories/c48.webp)](https://pan.quark.cn/s/9e42b69b6596?pwd=vYF5#/list/share/98e91b6045834fd1abbc824c6a54f0fa) |
+| [![A44-06-年终工作总结汇报PPT](docs/images/categories/c49.webp)](https://pan.quark.cn/s/9e42b69b6596?pwd=vYF5#/list/share/ca82a80afc22457eb19799fcb9173023) | [![高级感简约古风教学](docs/images/categories/c50.webp)](https://pan.quark.cn/s/9e42b69b6596?pwd=vYF5#/list/share/2b811f24dbfd4360b2c07dd81042b55c) | [![H023-项目策划](docs/images/categories/c51.webp)](https://pan.quark.cn/s/9e42b69b6596?pwd=vYF5#/list/share/2ae96f7196e946bea4e83ca86a71723b) |
+| [![PPT源文件](docs/images/categories/c52.webp)](https://pan.quark.cn/s/9e42b69b6596?pwd=vYF5#/list/share/28c746bdcdce427c81c364a5d26eb627) |
 
 需要搜索/筛选：[在线分类墙](https://hiwoniu.github.io/ppt-template-library/)（带搜索框） · [文字版分类表](docs/categories.md)（52 行，可复制）。
 
@@ -71,10 +71,10 @@
 
 |  |  |  |
 |:--:|:--:|:--:|
-| [![极简简约](docs/images/styles/minimal.webp)](https://pan.quark.cn/s/180767425d31#/list/share/4113371c3aa64dd6aa94c81c95d74ebb)<br>**极简简约** · 14 套 | [![商务汇报](docs/images/styles/business.webp)](https://pan.quark.cn/s/180767425d31#/list/share/b9f165bf736749d1858f4828d5afad89)<br>**商务汇报** · 15 套 | [![毕业答辩](docs/images/styles/thesis.webp)](https://pan.quark.cn/s/180767425d31#/list/share/25a04bed13b04662a0662ced868a31ef)<br>**毕业答辩** · 19 套 |
-| [![教学课件](docs/images/styles/teaching.webp)](https://pan.quark.cn/s/180767425d31#/list/share/22e427ebbb3648079160d59d08e0eb9a)<br>**教学课件** · 16 套 | [![个人简历](docs/images/styles/resume.webp)](https://pan.quark.cn/s/180767425d31#/list/share/da34c3ee751b400bb70568d9d8f3d842)<br>**个人简历** · 65 套 | [![文艺风格](docs/images/styles/literary.webp)](https://pan.quark.cn/s/180767425d31#/list/share/fa1d54cccf594c85b73c3ca37d6c2619)<br>**文艺风格** · 40 套 |
-| [![国潮](docs/images/styles/guochao.webp)](https://pan.quark.cn/s/180767425d31#/list/share/339bcab192a74bfda1939582f4a97f64)<br>**国潮** · 2 套 | [![科技风](docs/images/styles/tech.webp)](https://pan.quark.cn/s/180767425d31#/list/share/a959005ced1d486a949d9c11e74fd89b)<br>**科技风** · 4 套 | [![快闪](docs/images/styles/flash.webp)](https://pan.quark.cn/s/180767425d31#/list/share/426a515d0e0042deaac610bb220cc63c)<br>**快闪** · 3 套 |
-| [![婚庆爱情](docs/images/styles/wedding.webp)](https://pan.quark.cn/s/180767425d31#/list/share/a8202a07c9af455090644d3c447a2ee4)<br>**婚庆爱情** · 7 套 | [![路演金融](docs/images/styles/roadshow.webp)](https://pan.quark.cn/s/180767425d31#/list/share/b14505ffd6c04640a7c998b9e351334a)<br>**路演金融** · 73 套 | [![卡通](docs/images/styles/cartoon.webp)](https://pan.quark.cn/s/180767425d31#/list/share/3f596f0816cc494d96fe59ec991938d5)<br>**卡通** · 6 套 |
+| [![极简简约](docs/images/styles/minimal.webp)](https://pan.quark.cn/s/9e42b69b6596?pwd=vYF5#/list/share/2ed6276b38154209b0d60a7a2400f09b)<br>**极简简约** · 14 套 | [![商务汇报](docs/images/styles/business.webp)](https://pan.quark.cn/s/9e42b69b6596?pwd=vYF5#/list/share/051345e9741c4d069e11564e7eb000b0)<br>**商务汇报** · 15 套 | [![毕业答辩](docs/images/styles/thesis.webp)](https://pan.quark.cn/s/9e42b69b6596?pwd=vYF5#/list/share/82228f1a5fcb4fdca5bf2d884ffb7ab3)<br>**毕业答辩** · 19 套 |
+| [![教学课件](docs/images/styles/teaching.webp)](https://pan.quark.cn/s/9e42b69b6596?pwd=vYF5#/list/share/85e7789cd6da4847941b58e0aae27816)<br>**教学课件** · 16 套 | [![个人简历](docs/images/styles/resume.webp)](https://pan.quark.cn/s/9e42b69b6596?pwd=vYF5#/list/share/d8d3ec0421184a6c85c5a1fcb0b7561c)<br>**个人简历** · 65 套 | [![文艺风格](docs/images/styles/literary.webp)](https://pan.quark.cn/s/9e42b69b6596?pwd=vYF5#/list/share/fa7ee94d0a544de69cb290d328e06777)<br>**文艺风格** · 40 套 |
+| [![国潮](docs/images/styles/guochao.webp)](https://pan.quark.cn/s/9e42b69b6596?pwd=vYF5#/list/share/23b5fa1b2da44185b17d2868a1504a25)<br>**国潮** · 2 套 | [![科技风](docs/images/styles/tech.webp)](https://pan.quark.cn/s/9e42b69b6596?pwd=vYF5#/list/share/1fbc7969a2ca4f99872b24e6e43e88fb)<br>**科技风** · 4 套 | [![快闪](docs/images/styles/flash.webp)](https://pan.quark.cn/s/9e42b69b6596?pwd=vYF5#/list/share/2b30e8ce256543d5a6dd2bc7793ad8d8)<br>**快闪** · 3 套 |
+| [![婚庆爱情](docs/images/styles/wedding.webp)](https://pan.quark.cn/s/9e42b69b6596?pwd=vYF5#/list/share/c76f01da1a654c9d993d8228f73a1d5a)<br>**婚庆爱情** · 7 套 | [![路演金融](docs/images/styles/roadshow.webp)](https://pan.quark.cn/s/9e42b69b6596?pwd=vYF5#/list/share/563de49aca574ec1bd41ca2a8a66f533)<br>**路演金融** · 73 套 | [![卡通](docs/images/styles/cartoon.webp)](https://pan.quark.cn/s/9e42b69b6596?pwd=vYF5#/list/share/554440e18b3e47aea5675401b1248cba)<br>**卡通** · 6 套 |
 
 > 封面来自分享页自动生成的缩略图，仅用于索引展示；版权归原作者，如侵权请联系移除。
 
@@ -86,66 +86,66 @@
 
 ### 01 · 莫兰迪工作总结
 
-[![莫兰迪工作总结](docs/images/featured-01.webp)](https://pan.quark.cn/s/180767425d31#/list/share/3b3f96902cd3472a8b7e1dee909c9a02)
+[![莫兰迪工作总结](docs/images/featured-01.webp)](https://pan.quark.cn/s/9e42b69b6596?pwd=vYF5#/list/share/a07195785dec418da7f7e660b547da4e)
 
 | 项 | 内容 |
 |---|---|
-| 分类 | [09莫兰迪](https://pan.quark.cn/s/180767425d31#/list/share/3b3f96902cd3472a8b7e1dee909c9a02) · 4 套 |
+| 分类 | [09莫兰迪](https://pan.quark.cn/s/9e42b69b6596?pwd=vYF5#/list/share/a07195785dec418da7f7e660b547da4e) · 4 套 |
 | 文件 | `莫兰迪工作总结.pptx` · 12.3 MB |
 | 风格 | 低饱和莫兰迪色系、大面积留白，干净不抢内容 |
 | 适合 | 年度总结、部门汇报、需要「高级感但不花哨」的场合 |
 
 ### 02 · 淡雅中国风
 
-[![淡雅中国风](docs/images/featured-02.webp)](https://pan.quark.cn/s/180767425d31#/list/share/f7888ddfeb5245459b5cc49deab09fb1)
+[![淡雅中国风](docs/images/featured-02.webp)](https://pan.quark.cn/s/9e42b69b6596?pwd=vYF5#/list/share/f3aadad40b0b4a96add9802b75fa8563)
 
 | 项 | 内容 |
 |---|---|
-| 分类 | [8-中国风格](https://pan.quark.cn/s/180767425d31#/list/share/f7888ddfeb5245459b5cc49deab09fb1) · 101 套 |
+| 分类 | [8-中国风格](https://pan.quark.cn/s/9e42b69b6596?pwd=vYF5#/list/share/f3aadad40b0b4a96add9802b75fa8563) · 101 套 |
 | 文件 | `中国风格(01).pptx` · 11.7 MB |
 | 风格 | 水墨远山 + 折扇、青蓝灰调，克制雅致 |
 | 适合 | 文化类汇报、节庆活动、政企场合 |
 
 ### 03 · 白金极简年中总结
 
-[![白金极简年中总结](docs/images/featured-03.webp)](https://pan.quark.cn/s/180767425d31#/list/share/8bbd88f5f4ff42449398f194ce781b69)
+[![白金极简年中总结](docs/images/featured-03.webp)](https://pan.quark.cn/s/9e42b69b6596?pwd=vYF5#/list/share/79678bdc9d184e3aa0bb60f6a35b6b3e)
 
 | 项 | 内容 |
 |---|---|
-| 分类 | [01高端PPT](https://pan.quark.cn/s/180767425d31#/list/share/8bbd88f5f4ff42449398f194ce781b69) · 11 套 |
+| 分类 | [01高端PPT](https://pan.quark.cn/s/9e42b69b6596?pwd=vYF5#/list/share/79678bdc9d184e3aa0bb60f6a35b6b3e) · 11 套 |
 | 文件 | `白金极简工作汇报年中工作总结PPT模板宣传PPT动态PPT.pptx` · 12.0 MB |
 | 风格 | 白金配色、极简排版，含动态效果 |
 | 适合 | 年中/年终汇报、对外提案 |
 
 ### 04 · 年会颁奖盛典
 
-[![年会颁奖盛典](docs/images/featured-04.webp)](https://pan.quark.cn/s/180767425d31#/list/share/e4284380073441abb52f50063f04203d)
+[![年会颁奖盛典](docs/images/featured-04.webp)](https://pan.quark.cn/s/9e42b69b6596?pwd=vYF5#/list/share/b88cc71421f24d8ab2cde149ad01a904)
 
 | 项 | 内容 |
 |---|---|
-| 分类 | [15-年会颁奖](https://pan.quark.cn/s/180767425d31#/list/share/e4284380073441abb52f50063f04203d) · 115 套 |
+| 分类 | [15-年会颁奖](https://pan.quark.cn/s/9e42b69b6596?pwd=vYF5#/list/share/b88cc71421f24d8ab2cde149ad01a904) · 115 套 |
 | 文件 | `年会颁奖盛典晚会 (1).pptx` · 19.8 MB |
 | 风格 | 深蓝星空 + 金色奖杯，舞台感强 |
 | 适合 | 年会、颁奖典礼、庆典开场 |
 
 ### 05 · 扁平商务
 
-[![扁平商务](docs/images/featured-05.webp)](https://pan.quark.cn/s/180767425d31#/list/share/101c49b9dca44d96b114009c3f3887b0)
+[![扁平商务](docs/images/featured-05.webp)](https://pan.quark.cn/s/9e42b69b6596?pwd=vYF5#/list/share/48124fef3fd7486bb7fa9ac77fc93c1b)
 
 | 项 | 内容 |
 |---|---|
-| 分类 | [30-扁平风格](https://pan.quark.cn/s/180767425d31#/list/share/101c49b9dca44d96b114009c3f3887b0) · 77 套 |
+| 分类 | [30-扁平风格](https://pan.quark.cn/s/9e42b69b6596?pwd=vYF5#/list/share/48124fef3fd7486bb7fa9ac77fc93c1b) · 77 套 |
 | 文件 | `扁平风格(1).ppt` · 5.1 MB |
 | 风格 | 扁平插画、明快配色 |
 | 适合 | 产品介绍、培训课件、年轻化表达 |
 
 ### 06 · 竖版快闪
 
-[![竖版快闪](docs/images/featured-06.webp)](https://pan.quark.cn/s/180767425d31#/list/share/d8770a514cba4531a8cdffbd76f190d9)
+[![竖版快闪](docs/images/featured-06.webp)](https://pan.quark.cn/s/9e42b69b6596?pwd=vYF5#/list/share/58181fd7968b4e4aaf07b0db4c50737e)
 
 | 项 | 内容 |
 |---|---|
-| 分类 | [17-快闪PPT模板-竖版03](https://pan.quark.cn/s/180767425d31#/list/share/d8770a514cba4531a8cdffbd76f190d9) · 14 套 |
+| 分类 | [17-快闪PPT模板-竖版03](https://pan.quark.cn/s/9e42b69b6596?pwd=vYF5#/list/share/58181fd7968b4e4aaf07b0db4c50737e) · 14 套 |
 | 文件 | `【模板1】模仿苹果107秒制作的137秒快闪PPT模板.pptx` · 27.7 MB |
 | 风格 | 竖屏快闪、强节奏切换，适合手机端播放 |
 | 适合 | 发布会开场、短视频素材、活动倒计时 |

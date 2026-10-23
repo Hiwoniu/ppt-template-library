@@ -19,7 +19,8 @@ RAW = os.path.join(ROOT, "docs", "images", "categories", "raw")
 MANIFEST = os.path.join(ROOT, "docs", "images", "categories", "manifest.json")
 CATALOG = os.path.join(ROOT, "data", "catalog.json")
 
-PWD_ID = "180767425d31"
+PWD_ID = "9e42b69b6596"
+PASSCODE = "vYF5"
 API = "https://drive-h.quark.cn/1/clouddrive/share/sharepage"
 PPT_EXT = (".ppt", ".pptx", ".pps", ".ppsx", ".potx", ".key")
 CANDIDATES = 6
@@ -28,7 +29,7 @@ CANDIDATES = 6
 def get_stoken() -> str:
     req = urllib.request.Request(
         f"{API}/token?pr=ucpro&fr=pc",
-        data=json.dumps({"pwd_id": PWD_ID, "passcode": ""}).encode(),
+        data=json.dumps({"pwd_id": PWD_ID, "passcode": PASSCODE}).encode(),
         headers={"content-type": "application/json"},
         method="POST",
     )

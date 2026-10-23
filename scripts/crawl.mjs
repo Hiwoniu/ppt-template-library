@@ -10,7 +10,7 @@
  *
  * 用法：
  *   node scripts/crawl.mjs
- *   QUARK_PWD_ID=xxxx node scripts/crawl.mjs
+ *   node scripts/crawl.mjs
  */
 
 import { mkdir, rename, writeFile, readFile } from 'node:fs/promises';
@@ -20,9 +20,9 @@ import { fileURLToPath } from 'node:url';
 const ROOT = join(dirname(fileURLToPath(import.meta.url)), '..');
 const OUT = join(ROOT, 'data', 'catalog.json');
 
-const PWD_ID = process.env.QUARK_PWD_ID || '180767425d31';
-const PASSCODE = process.env.QUARK_PASSCODE || '';
-const SHARE_URL = `https://pan.quark.cn/s/${PWD_ID}`;
+const PWD_ID = process.env.QUARK_PWD_ID || '9e42b69b6596';
+const PASSCODE = process.env.QUARK_PASSCODE || 'vYF5';
+const SHARE_URL = `https://pan.quark.cn/s/${PWD_ID}?pwd=${PASSCODE}`;
 const API = 'https://drive-h.quark.cn/1/clouddrive/share/sharepage';
 const PAGE_SIZE = 100;
 const CONCURRENCY = 4;

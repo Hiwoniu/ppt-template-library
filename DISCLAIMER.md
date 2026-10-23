@@ -35,7 +35,7 @@
 
 ## 链接与数据
 
-- 分享来源：<https://pan.quark.cn/s/180767425d31>
+- 分享来源：<https://pan.quark.cn/s/9e42b69b6596?pwd=vYF5>
 - 目录数据抓取时间见 `data/catalog.json` 的 `source.crawledAt` 字段；
 - 抓取脚本 `scripts/crawl.mjs` 只读取目录接口，不下载原始文件；
 - 封面脚本 `scripts/fetch-covers.mjs` 只读取缩略图地址。

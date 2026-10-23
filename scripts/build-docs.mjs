@@ -15,14 +15,14 @@ const ROOT = join(dirname(fileURLToPath(import.meta.url)), '..');
 const CATALOG = join(ROOT, 'data', 'catalog.json');
 const OUT = join(ROOT, 'docs', 'CATALOG.md');
 
-const SHARE_BASE = 'https://pan.quark.cn/s';
 const PPT_EXT = new Set(['ppt', 'pptx', 'pps', 'ppsx', 'potx', 'key']);
 
 const catalog = JSON.parse(await readFile(CATALOG, 'utf8'));
 const { shareUrl, pwdId, title, owner, totalFiles, totalDirs, totalBytes, crawledAt } = catalog.source;
 const root = catalog.tree[0];
+const SHARE_BASE = shareUrl;
 
-const folderUrl = (fid) => `${SHARE_BASE}/${pwdId}#/list/share/${fid}`;
+const folderUrl = (fid) => `${SHARE_BASE}#/list/share/${fid}`;
 const esc = (s) => String(s).replace(/\|/g, '\\|').replace(/</g, '&lt;').replace(/>/g, '&gt;');
 const escLink = (s) => String(s).replace(/\)/g, '%29').replace(/\(/g, '%28').replace(/ /g, '%20');
 const fmtSize = (b) => {
@@ -111,7 +111,7 @@ const header = `# 完整目录
 
 > 由 \`scripts/build-docs.mjs\` 依据 \`data/catalog.json\` 自动生成，请勿手工修改。
 >
-> 来源：[${esc(title)}](${shareUrl})（分享者：${esc(owner ?? '未知')}） · 抓取时间：${crawledAt}
+> 来源：[${esc(title)}](${shareUrl}) · 抓取时间：${crawledAt}
 >
 > 统计：**${root.children.length} 个分类**、**${totalFiles} 个文件**（其中 PPT ${pptOf(root).length} 个）、${totalDirs} 个目录、${(totalBytes / 1024 ** 3).toFixed(1)} GB。
 >

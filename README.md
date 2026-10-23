@@ -11,7 +11,7 @@
 > 把一套 **10 万+ 套 / 65.9 GB** 的中文 PPT 模板库，整理成可检索、可直达、带封面预览的目录索引。
 > **只索引、只预览：不存储原文件、不提供下载。**
 
-**快速导航**　[🖼 可视化浏览页](docs/gallery.html) · [分类墙](#分类墙) · [精选六套](#精选模板) · [目录结构](#目录结构示例) · [怎么用](#怎么用) · [完整目录](docs/CATALOG.md) · [结构化数据](data/catalog.json)
+**快速导航**　[🌐 在线浏览](https://hiwoniu.github.io/ppt-template-library/) · [🖼 本地浏览页](docs/gallery.html) · [分类墙](#分类墙) · [精选六套](#精选模板) · [目录结构](#目录结构示例) · [怎么用](#怎么用) · [完整目录](docs/CATALOG.md) · [结构化数据](data/catalog.json)
 
 > **打不开链接？** 分享页对短时间内的连续跳转比较敏感：先打开[分享首页](https://pan.quark.cn/s/180767425d31)，等 1–2 秒再点分类；还是打不开就刷新一次页面，或直接在首页按分类名查找。
 
@@ -61,7 +61,7 @@
 | [![A44-06-年终工作总结汇报PPT](docs/images/categories/c49.webp)](https://pan.quark.cn/s/180767425d31#/list/share/d1e9230343fe45ac88a74107db2f25f5) | [![高级感简约古风教学](docs/images/categories/c50.webp)](https://pan.quark.cn/s/180767425d31#/list/share/eddd8805f9f14bc19da51dc086d412c6) | [![H023-项目策划](docs/images/categories/c51.webp)](https://pan.quark.cn/s/180767425d31#/list/share/552df0bf74284047863a49c0953888c1) |
 | [![PPT源文件](docs/images/categories/c52.webp)](https://pan.quark.cn/s/180767425d31#/list/share/4433dfe967bd46db850591d957c383d9) |
 
-需要搜索/筛选：[可视化浏览页](docs/gallery.html)（带搜索框） · [文字版分类表](docs/categories.md)（52 行，可复制）。
+需要搜索/筛选：[在线分类墙](https://hiwoniu.github.io/ppt-template-library/)（带搜索框） · [文字版分类表](docs/categories.md)（52 行，可复制）。
 
 ---
 

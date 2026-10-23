@@ -91,9 +91,12 @@ function renderDir(dir, depth) {
   for (const sub of subdirs) {
     const nestedPpt = pptOf(sub).length;
     const nestedImg = imgCount(sub);
+    // 预览图/空目录在网页端容易打不开，不提供外链
+    const linked = !/预览图/.test(sub.name) && (nestedPpt > 0 || nestedImg > 0);
+    const link = linked ? ` · <a href="${folderUrl(sub.fid)}">打开</a>` : '';
     lines.push(
       `${pad}<details>`,
-      `${pad}<summary>📁 ${esc(sub.name)} — ${nestedPpt} 个模板 / ${nestedImg} 张图 · <a href="${folderUrl(sub.fid)}">打开</a></summary>`,
+      `${pad}<summary>📁 ${esc(sub.name)} — ${nestedPpt} 个模板 / ${nestedImg} 张图${link}</summary>`,
       '',
     );
     lines.push(renderDir(sub, depth));

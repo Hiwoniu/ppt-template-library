@@ -21,6 +21,7 @@ const ROOT = join(dirname(fileURLToPath(import.meta.url)), '..');
 const CATALOG = join(ROOT, 'data', 'catalog.json');
 const IMG_DIR = join(ROOT, 'docs', 'images');
 const STYLE_DIR = join(IMG_DIR, 'styles');
+const CAT_DIR = join(IMG_DIR, 'categories', 'raw');
 
 const PWD_ID = '180767425d31';
 const API = 'https://drive-h.quark.cn/1/clouddrive/share/sharepage';
@@ -103,6 +104,7 @@ async function download(url) {
 
 async function main() {
   const only = (process.argv.find((a) => a.startsWith('--only=')) || '').split('=')[1];
+  const all = process.argv.includes('--all');
   const catalog = JSON.parse(await readFile(CATALOG, 'utf8'));
   const top = catalog.tree[0];
   const byName = new Map(top.children.map((c) => [c.name, c]));
@@ -120,7 +122,7 @@ async function main() {
 
   const results = [];
 
-  if (only !== 'styles') {
+  if (!all && only !== 'styles') {
     await mkdir(IMG_DIR, { recursive: true });
     for (const item of FEATURED) {
       try {
@@ -140,14 +142,14 @@ async function main() {
     }
   }
 
-  if (only !== 'featured') {
+  if (!all && only !== 'featured') {
     await mkdir(STYLE_DIR, { recursive: true });
     for (const item of STYLES) {
       try {
         const entries = await listCat(item.cat);
         const entry = entries.find((e) => PPT_EXT.test(e.file_name) && (e.big_thumbnail || e.preview_url));
         if (!entry) throw new Error('该分类没有可用封面');
-        const url = entry.big_thumbnail || entry.preview_url;
+        const url = entry.preview_url || entry.big_thumbnail;
         const { buf, ext } = await download(url);
         const out = join(STYLE_DIR, `${item.slug}.${ext}`);
         await writeFile(out, buf);
@@ -157,6 +159,46 @@ async function main() {
       }
       await sleep(150);
     }
+  }
+
+  // 全部分类：每个顶层分类取一张代表封面，落盘到 categories/raw/cNN.webp
+  if (all) {
+    await mkdir(CAT_DIR, { recursive: true });
+    const manifest = [];
+    const cats = top.children;
+
+    const findCover = async (node, depth = 0) => {
+      const entries = await listAll(stoken, node.fid);
+      const hit = entries.find((e) => PPT_EXT.test(e.file_name) && (e.preview_url || e.big_thumbnail));
+      if (hit) return hit;
+      if (depth >= 3) return null;
+      for (const child of entries.filter((e) => e.dir)) {
+        const deeper = await findCover(child, depth + 1);
+        if (deeper) return deeper;
+      }
+      return null;
+    };
+
+    for (let i = 0; i < cats.length; i++) {
+      const cat = cats[i];
+      const idx = String(i + 1).padStart(2, '0');
+      try {
+        const entry = await findCover(cat);
+        if (!entry) throw new Error('未找到带封面的模板');
+        const url = entry.big_thumbnail || entry.preview_url;
+        const { buf, ext } = await download(url);
+        const file = `c${idx}.${ext}`;
+        await writeFile(join(CAT_DIR, file), buf);
+        manifest.push({ index: i + 1, name: cat.name, fid: cat.fid, samples: entry.file_name, image: file });
+        results.push({ kind: 'cat', out: `categories/raw/${file}`, file: entry.file_name, size: buf.length });
+      } catch (err) {
+        manifest.push({ index: i + 1, name: cat.name, fid: cat.fid, error: String(err.message || err) });
+        results.push({ kind: 'cat', out: `categories/c${idx}`, error: String(err.message || err) });
+      }
+      await sleep(120);
+    }
+    await writeFile(join(CAT_DIR, '..', 'manifest.json'), JSON.stringify(manifest, null, 2) + '\n');
+    console.log(`分类封面：${manifest.filter((m) => !m.error).length}/${cats.length} 成功`);
   }
 
   for (const r of results) {

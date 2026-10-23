@@ -2,3 +2,4 @@ node_modules/
 .DS_Store
 *.tmp
 data/catalog.json.tmp
+docs/images/categories/raw/

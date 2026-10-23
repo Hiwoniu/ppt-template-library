@@ -194,7 +194,7 @@
 | 72 | 年终总结(72).pptx | 4.4 MB | 2024-12-07 |
 
 <details>
-<summary>📁 预览图 — 0 个模板 / 72 张图 · <a href="https://pan.quark.cn/s/180767425d31#/list/share/bcbf0fbee9d846cfb2e7ad07cc95f35b">打开</a></summary>
+<summary>📁 预览图 — 0 个模板 / 72 张图</summary>
 
 > 同目录另有 72 个非 PPT 文件（封面图、说明等），见 `data/catalog.json`。
 
@@ -447,7 +447,7 @@
 | 101 | 中国风格(101).pptx | 19.3 MB | 2024-12-07 |
 
 <details>
-<summary>📁 预览图 — 0 个模板 / 101 张图 · <a href="https://pan.quark.cn/s/180767425d31#/list/share/56d7328a074943469994ef35b52a607c">打开</a></summary>
+<summary>📁 预览图 — 0 个模板 / 101 张图</summary>
 
 > 同目录另有 101 个非 PPT 文件（封面图、说明等），见 `data/catalog.json`。
 
@@ -526,7 +526,7 @@
 | 40 | 文艺风格(40).pptx | 61.4 MB | 2024-12-07 |
 
 <details>
-<summary>📁 预览图 — 0 个模板 / 40 张图 · <a href="https://pan.quark.cn/s/180767425d31#/list/share/f3c816df16444e87b95a1cfdbca3130c">打开</a></summary>
+<summary>📁 预览图 — 0 个模板 / 40 张图</summary>
 
 > 同目录另有 40 个非 PPT 文件（封面图、说明等），见 `data/catalog.json`。
 
@@ -654,7 +654,7 @@
 | 43 | 培训课件(43).pptx | 6.3 MB | 2024-12-07 |
 
 <details>
-<summary>📁 预览图 — 0 个模板 / 43 张图 · <a href="https://pan.quark.cn/s/180767425d31#/list/share/e482b4e1e50246238a4e06be1b96b369">打开</a></summary>
+<summary>📁 预览图 — 0 个模板 / 43 张图</summary>
 
 > 同目录另有 43 个非 PPT 文件（封面图、说明等），见 `data/catalog.json`。
 
@@ -803,7 +803,7 @@
 | 115 | 年会颁奖盛典晚会 (115).pptx | 330.0 MB | 2024-12-07 |
 
 <details>
-<summary>📁 预览图 — 0 个模板 / 115 张图 · <a href="https://pan.quark.cn/s/180767425d31#/list/share/761156ec462641868be96ed56fabedf5">打开</a></summary>
+<summary>📁 预览图 — 0 个模板 / 115 张图</summary>
 
 > 同目录另有 115 个非 PPT 文件（封面图、说明等），见 `data/catalog.json`。
 
@@ -912,7 +912,7 @@
 | 73 | 融资路演(73).pptx | 6.0 MB | 2024-12-07 |
 
 <details>
-<summary>📁 预览图 — 0 个模板 / 73 张图 · <a href="https://pan.quark.cn/s/180767425d31#/list/share/0bcb4cb5b3464621a8f615d050fddfb6">打开</a></summary>
+<summary>📁 预览图 — 0 个模板 / 73 张图</summary>
 
 > 同目录另有 73 个非 PPT 文件（封面图、说明等），见 `data/catalog.json`。
 
@@ -961,7 +961,7 @@
 | 14 | 【模板14】旅游酷炫图文快闪动画通用PPT模板.pptx | 107.0 MB | 2024-12-07 |
 
 <details>
-<summary>📁 预览图 — 0 个模板 / 14 张图 · <a href="https://pan.quark.cn/s/180767425d31#/list/share/60dc1afdb9cb4ad78ffbd1782198b6d6">打开</a></summary>
+<summary>📁 预览图 — 0 个模板 / 14 张图</summary>
 
 > 同目录另有 14 个非 PPT 文件（封面图、说明等），见 `data/catalog.json`。
 
@@ -1009,7 +1009,7 @@
 | 6 | 【模板6】炫酷创意文字快闪公司招聘PPT模板.pptx | 4.0 MB | 2024-12-07 |
 
 <details>
-<summary>📁 预览图 — 0 个模板 / 6 张图 · <a href="https://pan.quark.cn/s/180767425d31#/list/share/ec0b7d1988d84edc8540bf1ca296c248">打开</a></summary>
+<summary>📁 预览图 — 0 个模板 / 6 张图</summary>
 
 > 同目录另有 6 个非 PPT 文件（封面图、说明等），见 `data/catalog.json`。
 
@@ -1034,7 +1034,7 @@
 | 10 | 【模板10】情侣生日表白公司生日.pptx | 5.2 MB | 2024-12-07 |
 
 <details>
-<summary>📁 预览图 — 0 个模板 / 10 张图 · <a href="https://pan.quark.cn/s/180767425d31#/list/share/d975d2c042b347cf8145223ed52a5686">打开</a></summary>
+<summary>📁 预览图 — 0 个模板 / 10 张图</summary>
 
 > 同目录另有 10 个非 PPT 文件（封面图、说明等），见 `data/catalog.json`。
 
@@ -1072,7 +1072,7 @@
 | 23 | 【模板23】图文快闪模板.pptx | 29.0 MB | 2024-12-07 |
 
 <details>
-<summary>📁 预览图 — 0 个模板 / 23 张图 · <a href="https://pan.quark.cn/s/180767425d31#/list/share/60d86e6f746d4114b628e7f5e1724136">打开</a></summary>
+<summary>📁 预览图 — 0 个模板 / 23 张图</summary>
 
 > 同目录另有 23 个非 PPT 文件（封面图、说明等），见 `data/catalog.json`。
 
@@ -1110,7 +1110,7 @@
 | 23 | 【模板23】快闪.pptx | 1.5 MB | 2024-12-07 |
 
 <details>
-<summary>📁 其他预览图 — 0 个模板 / 23 张图 · <a href="https://pan.quark.cn/s/180767425d31#/list/share/10b78c3fbb96458ca236ad45b94765d8">打开</a></summary>
+<summary>📁 其他预览图 — 0 个模板 / 23 张图</summary>
 
 > 同目录另有 23 个非 PPT 文件（封面图、说明等），见 `data/catalog.json`。
 
@@ -1162,7 +1162,7 @@
 | 13 | 【模板13】求婚快闪PPT.pptx | 48.9 MB | 2024-12-07 |
 
 <details>
-<summary>📁 预览图 — 0 个模板 / 13 张图 · <a href="https://pan.quark.cn/s/180767425d31#/list/share/8da5359eda004aff85d8ce3fc16b5b64">打开</a></summary>
+<summary>📁 预览图 — 0 个模板 / 13 张图</summary>
 
 > 同目录另有 13 个非 PPT 文件（封面图、说明等），见 `data/catalog.json`。
 
@@ -1213,7 +1213,7 @@
 | 36 | 【模板36】快闪模板3.pptx | 1.1 MB | 2024-12-07 |
 
 <details>
-<summary>📁 预览图 — 0 个模板 / 36 张图 · <a href="https://pan.quark.cn/s/180767425d31#/list/share/37a0ce5e4bb8478e99127d809797b919">打开</a></summary>
+<summary>📁 预览图 — 0 个模板 / 36 张图</summary>
 
 > 同目录另有 36 个非 PPT 文件（封面图、说明等），见 `data/catalog.json`。
 
@@ -1236,7 +1236,7 @@
 | 8 | 【模板8】教师自我介绍.pptx | 4.2 MB | 2024-12-07 |
 
 <details>
-<summary>📁 预览图 — 0 个模板 / 8 张图 · <a href="https://pan.quark.cn/s/180767425d31#/list/share/d0abc946f01841b39fa23badfc2f3daa">打开</a></summary>
+<summary>📁 预览图 — 0 个模板 / 8 张图</summary>
 
 > 同目录另有 8 个非 PPT 文件（封面图、说明等），见 `data/catalog.json`。
 
@@ -1379,7 +1379,7 @@
 | 109 | 【编号167】自我介绍开场快闪PPT模板.pptx | 10.9 MB | 2024-12-07 |
 
 <details>
-<summary>📁 预览图 — 0 个模板 / 108 张图 · <a href="https://pan.quark.cn/s/180767425d31#/list/share/5ab910dc733d4908975ccb4532684cce">打开</a></summary>
+<summary>📁 预览图 — 0 个模板 / 108 张图</summary>
 
 > 同目录另有 108 个非 PPT 文件（封面图、说明等），见 `data/catalog.json`。
 
@@ -1460,7 +1460,7 @@
 | 50 | 【编号50】洗碗机抖音PPT新产品发布项目介绍.pptx | 32.0 MB | 2024-12-07 |
 
 <details>
-<summary>📁 预览图 — 0 个模板 / 50 张图 · <a href="https://pan.quark.cn/s/180767425d31#/list/share/b7336d010c9d4e8e88819a434c1cfabe">打开</a></summary>
+<summary>📁 预览图 — 0 个模板 / 50 张图</summary>
 
 > 同目录另有 50 个非 PPT 文件（封面图、说明等），见 `data/catalog.json`。
 
@@ -1613,7 +1613,7 @@
 | 65 | 竞聘简历(67).pptx | 7.1 MB | 2024-12-07 |
 
 <details>
-<summary>📁 预览图 — 0 个模板 / 65 张图 · <a href="https://pan.quark.cn/s/180767425d31#/list/share/8ffa2740d2fb43fc9c8ad16486ab831b">打开</a></summary>
+<summary>📁 预览图 — 0 个模板 / 65 张图</summary>
 
 > 同目录另有 65 个非 PPT 文件（封面图、说明等），见 `data/catalog.json`。
 
@@ -1720,7 +1720,7 @@
 | 59 | 创意风格 (60).pptx | 31.6 MB | 2024-12-07 |
 
 <details>
-<summary>📁 预览图 — 0 个模板 / 59 张图 · <a href="https://pan.quark.cn/s/180767425d31#/list/share/0fa366ee3cd640ecbdab7b0e8ccbc3a7">打开</a></summary>
+<summary>📁 预览图 — 0 个模板 / 59 张图</summary>
 
 > 同目录另有 59 个非 PPT 文件（封面图、说明等），见 `data/catalog.json`。
 
@@ -1757,7 +1757,7 @@
 | 20 | 产品发布 (20).pptx | 59.8 MB | 2024-12-07 |
 
 <details>
-<summary>📁 预览图 — 0 个模板 / 20 张图 · <a href="https://pan.quark.cn/s/180767425d31#/list/share/85fc8d102262463a8cac7a453b4c04eb">打开</a></summary>
+<summary>📁 预览图 — 0 个模板 / 20 张图</summary>
 
 > 同目录另有 20 个非 PPT 文件（封面图、说明等），见 `data/catalog.json`。
 
@@ -1851,7 +1851,7 @@
 | 77 | 扁平风格(79).pptx | 11.0 MB | 2024-12-07 |
 
 <details>
-<summary>📁 预览图 — 0 个模板 / 76 张图 · <a href="https://pan.quark.cn/s/180767425d31#/list/share/605b9dcaa33547be8bad3608c641d0bb">打开</a></summary>
+<summary>📁 预览图 — 0 个模板 / 76 张图</summary>
 
 > 同目录另有 76 个非 PPT 文件（封面图、说明等），见 `data/catalog.json`。
 
@@ -2685,7 +2685,7 @@
 | 38 | 工作总结精选(42).pptx | 4.6 MB | 2024-12-07 |
 
 <details>
-<summary>📁 预览图 — 0 个模板 / 38 张图 · <a href="https://pan.quark.cn/s/180767425d31#/list/share/ba3626fdeac045429503913ff3ae3c02">打开</a></summary>
+<summary>📁 预览图 — 0 个模板 / 38 张图</summary>
 
 > 同目录另有 38 个非 PPT 文件（封面图、说明等），见 `data/catalog.json`。
 
@@ -2862,7 +2862,7 @@
 | 160 | 年终总结汇报 (165).pptx | 13.0 MB | 2024-12-07 |
 
 <details>
-<summary>📁 预览图 — 0 个模板 / 160 张图 · <a href="https://pan.quark.cn/s/180767425d31#/list/share/584b518f48e343d7a6a6a9c02fb6b194">打开</a></summary>
+<summary>📁 预览图 — 0 个模板 / 160 张图</summary>
 
 > 同目录另有 160 个非 PPT 文件（封面图、说明等），见 `data/catalog.json`。
 
@@ -3039,7 +3039,7 @@
 | 160 | 年终总结汇报 (329).pptx | 4.2 MB | 2024-12-07 |
 
 <details>
-<summary>📁 预览图 — 0 个模板 / 160 张图 · <a href="https://pan.quark.cn/s/180767425d31#/list/share/bc1f57a240114628a62e6873c1896c6d">打开</a></summary>
+<summary>📁 预览图 — 0 个模板 / 160 张图</summary>
 
 > 同目录另有 160 个非 PPT 文件（封面图、说明等），见 `data/catalog.json`。
 
@@ -4918,7 +4918,7 @@
 | 47 | 项目策划(47).pptx | 27.4 MB | 2024-12-07 |
 
 <details>
-<summary>📁 预览图 — 0 个模板 / 47 张图 · <a href="https://pan.quark.cn/s/180767425d31#/list/share/439a671171924aa8aa1cb8a874c14460">打开</a></summary>
+<summary>📁 预览图 — 0 个模板 / 47 张图</summary>
 
 > 同目录另有 47 个非 PPT 文件（封面图、说明等），见 `data/catalog.json`。
 

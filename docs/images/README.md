@@ -4,38 +4,41 @@
 
 ## 目录
 
-| 文件 | 用途 | 基准尺寸 |
+| 路径 | 用途 | 尺寸 |
 |---|---|---|
-| `hero.png` | README 顶部横幅（由 4 张精选封面拼贴 + 文案合成） | 1600×560 |
-| `featured-01.webp` … `featured-06.webp` | 6 套精选模板的封面 | 750×422 |
-| `styles/*.png` | 「风格掠影」12 张分类代表封面 | 533×300 |
+| `hero.png` | README 顶部横幅（6 张精选封面错落拼贴 + 文案） | 1600×620 |
+| `featured-01.webp` … `featured-06.webp` | 精选六套的封面 | 750×422 |
+| `styles/*.webp` | 「风格掠影」12 张分类代表封面 | 750×422 |
+| `categories/c01.webp` … `c52.webp` | 「分类墙」52 张卡片（封面 + 名称 + 数量） | 480×300 |
+| `categories/manifest.json` | 卡片清单：序号、分类名、fid、取样文件 | — |
+| `categories/raw/` | 原始缩略图（中间产物，已 gitignore） | — |
 
-## 重新抓取
-
-封面地址带签名、会过期，但 README 里存的是图片文件，不受影响。需要更新时：
+## 重新生成
 
 ```bash
-node scripts/fetch-covers.mjs            # 精选 + 风格掠影全部刷新
-node scripts/fetch-covers.mjs --only=featured
-node scripts/fetch-covers.mjs --only=styles
+# 1. 抓取：精选 + 风格
+node scripts/fetch-covers.mjs
+# 2. 抓取：52 个分类（写入 categories/raw/）
+node scripts/fetch-covers.mjs --all
+# 3. 合成卡片（需要 Pillow）
+python3 scripts/build-cards.py
 ```
 
-脚本只请求网盘返回的缩略图地址，**不下载 pptx/jpg 原件**。
+脚本只请求分享页返回的缩略图地址，**不下载 pptx/jpg 原件**。
 
 ## 用真实截图替换（可选）
 
-如果某套模板你截了实际页面，可以直接覆盖同名文件，README 无需改动：
+截图后直接覆盖同名文件即可，README 无需改动：
 
 ```bash
-# 精选第 1 套
-cp ~/Desktop/莫兰迪.png docs/images/featured-01.webp   # 注意扩展名一致
+cp ~/Desktop/莫兰迪.webp docs/images/featured-01.webp
 ```
 
 建议：
 
-- 保持 16:9（1600×900 或 750×422），避免 README 里变形；
-- 单张控制在 500 KB 内；
-- 若截图是 PNG，也可以改名为 `.png` 并同步修改 README 中的引用路径。
+- 保持 16:9，精选建议 750×422、卡片建议 480×300；
+- 单张控制在 200 KB 内；
+- 若换成 `.png`，需要同步改 README 里的引用路径。
 
 ## 版权
 

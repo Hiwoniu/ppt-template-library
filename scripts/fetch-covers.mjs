@@ -1,6 +1,6 @@
 #!/usr/bin/env node
 /**
- * fetch-covers.mjs — 从夸克分享页自带的封面预览地址取图，保存到 docs/images/
+ * fetch-covers.mjs — 从分享页自带的封面预览地址取图，保存到 docs/images/
  *
  * 说明：
  *  - 只请求分享详情接口返回的 `preview_url` / `big_thumbnail`（网盘自己生成的缩略图），

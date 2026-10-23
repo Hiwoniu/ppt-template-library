@@ -1,6 +1,6 @@
 #!/usr/bin/env node
 /**
- * crawl.mjs — 只读抓取夸克网盘分享的目录结构，生成 data/catalog.json
+ * crawl.mjs — 只读抓取网盘分享的目录结构，生成 data/catalog.json
  *
  * 特点：
  *  - 只调用「分享页详情」接口，读取文件名/大小/层级；不下载任何 PPT、图片。
@@ -212,7 +212,7 @@ async function main() {
       totalEntries: stats.files + stats.dirs,
       totalBytes: stats.bytes,
       crawledAt: new Date().toISOString(),
-      note: '本文件仅记录目录结构（文件名/大小/层级），不包含任何文件内容；点击链接需自行到夸克分享页浏览。',
+      note: '本文件仅记录目录结构（文件名/大小/层级），不包含任何文件内容；点击链接需自行到分享页浏览。',
     },
     errors,
     tree: tree.map(stripInternal),

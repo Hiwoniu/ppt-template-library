@@ -6,7 +6,7 @@
 >
 > 统计：**52 个分类**、**7006 个文件**（其中 PPT 3527 个）、160 个目录、65.9 GB。
 >
-> 说明：本页只列出**PPT 模板文件**；封面图与其他文件请见 [data/catalog.json](../data/catalog.json)。所有链接均指向夸克分享页，仓库不存储、不分发任何文件。
+> 说明：本页只列出**PPT 模板文件**；封面图与其他文件请见 [data/catalog.json](../data/catalog.json)。所有链接均指向原始分享页，仓库不存储、不分发任何文件。
 
 ## 分类索引
 
@@ -67,7 +67,7 @@
 
 ## 1. 0极简简约
 
-**14 个 PPT 模板** · 共 28 个条目 · 14 张封面/图片 · [在夸克打开该分类](https://pan.quark.cn/s/180767425d31#/list/share/4113371c3aa64dd6aa94c81c95d74ebb)
+**14 个 PPT 模板** · 共 28 个条目 · 14 张封面/图片 · [打开该分类](https://pan.quark.cn/s/180767425d31#/list/share/4113371c3aa64dd6aa94c81c95d74ebb)
 
 | # | 模板文件 | 大小 | 修改时间 |
 |---|----------|-----:|----------|
@@ -93,7 +93,7 @@
 
 ## 2. 01高端PPT
 
-**11 个 PPT 模板** · 共 23 个条目 · 12 张封面/图片 · [在夸克打开该分类](https://pan.quark.cn/s/180767425d31#/list/share/8bbd88f5f4ff42449398f194ce781b69)
+**11 个 PPT 模板** · 共 23 个条目 · 12 张封面/图片 · [打开该分类](https://pan.quark.cn/s/180767425d31#/list/share/8bbd88f5f4ff42449398f194ce781b69)
 
 | # | 模板文件 | 大小 | 修改时间 |
 |---|----------|-----:|----------|
@@ -116,7 +116,7 @@
 
 ## 3. 2-年终总结
 
-**72 个 PPT 模板** · 共 73 个条目 · 72 张封面/图片 · [在夸克打开该分类](https://pan.quark.cn/s/180767425d31#/list/share/43733ff9dfbd4ee8877a54b8fd373d50)
+**72 个 PPT 模板** · 共 73 个条目 · 72 张封面/图片 · [打开该分类](https://pan.quark.cn/s/180767425d31#/list/share/43733ff9dfbd4ee8877a54b8fd373d50)
 
 | # | 模板文件 | 大小 | 修改时间 |
 |---|----------|-----:|----------|
@@ -194,7 +194,7 @@
 | 72 | 年终总结(72).pptx | 4.4 MB | 2024-12-07 |
 
 <details>
-<summary>📁 预览图 — 0 个模板 / 72 张图 · <a href="https://pan.quark.cn/s/180767425d31#/list/share/bcbf0fbee9d846cfb2e7ad07cc95f35b">在夸克打开</a></summary>
+<summary>📁 预览图 — 0 个模板 / 72 张图 · <a href="https://pan.quark.cn/s/180767425d31#/list/share/bcbf0fbee9d846cfb2e7ad07cc95f35b">打开</a></summary>
 
 > 同目录另有 72 个非 PPT 文件（封面图、说明等），见 `data/catalog.json`。
 
@@ -205,7 +205,7 @@
 
 ## 4. 03毕业答辩
 
-**19 个 PPT 模板** · 共 38 个条目 · 19 张封面/图片 · [在夸克打开该分类](https://pan.quark.cn/s/180767425d31#/list/share/25a04bed13b04662a0662ced868a31ef)
+**19 个 PPT 模板** · 共 38 个条目 · 19 张封面/图片 · [打开该分类](https://pan.quark.cn/s/180767425d31#/list/share/25a04bed13b04662a0662ced868a31ef)
 
 | # | 模板文件 | 大小 | 修改时间 |
 |---|----------|-----:|----------|
@@ -236,7 +236,7 @@
 
 ## 5. 04新年
 
-**6 个 PPT 模板** · 共 12 个条目 · 6 张封面/图片 · [在夸克打开该分类](https://pan.quark.cn/s/180767425d31#/list/share/c127fca4512047ddad01c0977e6212f7)
+**6 个 PPT 模板** · 共 12 个条目 · 6 张封面/图片 · [打开该分类](https://pan.quark.cn/s/180767425d31#/list/share/c127fca4512047ddad01c0977e6212f7)
 
 | # | 模板文件 | 大小 | 修改时间 |
 |---|----------|-----:|----------|
@@ -254,7 +254,7 @@
 
 ## 6. 05商务
 
-**15 个 PPT 模板** · 共 30 个条目 · 15 张封面/图片 · [在夸克打开该分类](https://pan.quark.cn/s/180767425d31#/list/share/b9f165bf736749d1858f4828d5afad89)
+**15 个 PPT 模板** · 共 30 个条目 · 15 张封面/图片 · [打开该分类](https://pan.quark.cn/s/180767425d31#/list/share/b9f165bf736749d1858f4828d5afad89)
 
 | # | 模板文件 | 大小 | 修改时间 |
 |---|----------|-----:|----------|
@@ -281,7 +281,7 @@
 
 ## 7. 06教学课件
 
-**16 个 PPT 模板** · 共 31 个条目 · 15 张封面/图片 · [在夸克打开该分类](https://pan.quark.cn/s/180767425d31#/list/share/22e427ebbb3648079160d59d08e0eb9a)
+**16 个 PPT 模板** · 共 31 个条目 · 15 张封面/图片 · [打开该分类](https://pan.quark.cn/s/180767425d31#/list/share/22e427ebbb3648079160d59d08e0eb9a)
 
 | # | 模板文件 | 大小 | 修改时间 |
 |---|----------|-----:|----------|
@@ -309,7 +309,7 @@
 
 ## 8. 07工作总结
 
-**19 个 PPT 模板** · 共 38 个条目 · 19 张封面/图片 · [在夸克打开该分类](https://pan.quark.cn/s/180767425d31#/list/share/160d8cde6f1d40ec879a0fe92a39a772)
+**19 个 PPT 模板** · 共 38 个条目 · 19 张封面/图片 · [打开该分类](https://pan.quark.cn/s/180767425d31#/list/share/160d8cde6f1d40ec879a0fe92a39a772)
 
 | # | 模板文件 | 大小 | 修改时间 |
 |---|----------|-----:|----------|
@@ -340,7 +340,7 @@
 
 ## 9. 8-中国风格
 
-**101 个 PPT 模板** · 共 102 个条目 · 101 张封面/图片 · [在夸克打开该分类](https://pan.quark.cn/s/180767425d31#/list/share/f7888ddfeb5245459b5cc49deab09fb1)
+**101 个 PPT 模板** · 共 102 个条目 · 101 张封面/图片 · [打开该分类](https://pan.quark.cn/s/180767425d31#/list/share/f7888ddfeb5245459b5cc49deab09fb1)
 
 | # | 模板文件 | 大小 | 修改时间 |
 |---|----------|-----:|----------|
@@ -447,7 +447,7 @@
 | 101 | 中国风格(101).pptx | 19.3 MB | 2024-12-07 |
 
 <details>
-<summary>📁 预览图 — 0 个模板 / 101 张图 · <a href="https://pan.quark.cn/s/180767425d31#/list/share/56d7328a074943469994ef35b52a607c">在夸克打开</a></summary>
+<summary>📁 预览图 — 0 个模板 / 101 张图 · <a href="https://pan.quark.cn/s/180767425d31#/list/share/56d7328a074943469994ef35b52a607c">打开</a></summary>
 
 > 同目录另有 101 个非 PPT 文件（封面图、说明等），见 `data/catalog.json`。
 
@@ -458,7 +458,7 @@
 
 ## 10. 08求职竞聘
 
-**10 个 PPT 模板** · 共 20 个条目 · 10 张封面/图片 · [在夸克打开该分类](https://pan.quark.cn/s/180767425d31#/list/share/b93cd3f84c1748e6a4697f9873d4c437)
+**10 个 PPT 模板** · 共 20 个条目 · 10 张封面/图片 · [打开该分类](https://pan.quark.cn/s/180767425d31#/list/share/b93cd3f84c1748e6a4697f9873d4c437)
 
 | # | 模板文件 | 大小 | 修改时间 |
 |---|----------|-----:|----------|
@@ -480,7 +480,7 @@
 
 ## 11. 9-文艺风格
 
-**40 个 PPT 模板** · 共 41 个条目 · 40 张封面/图片 · [在夸克打开该分类](https://pan.quark.cn/s/180767425d31#/list/share/fa1d54cccf594c85b73c3ca37d6c2619)
+**40 个 PPT 模板** · 共 41 个条目 · 40 张封面/图片 · [打开该分类](https://pan.quark.cn/s/180767425d31#/list/share/fa1d54cccf594c85b73c3ca37d6c2619)
 
 | # | 模板文件 | 大小 | 修改时间 |
 |---|----------|-----:|----------|
@@ -526,7 +526,7 @@
 | 40 | 文艺风格(40).pptx | 61.4 MB | 2024-12-07 |
 
 <details>
-<summary>📁 预览图 — 0 个模板 / 40 张图 · <a href="https://pan.quark.cn/s/180767425d31#/list/share/f3c816df16444e87b95a1cfdbca3130c">在夸克打开</a></summary>
+<summary>📁 预览图 — 0 个模板 / 40 张图 · <a href="https://pan.quark.cn/s/180767425d31#/list/share/f3c816df16444e87b95a1cfdbca3130c">打开</a></summary>
 
 > 同目录另有 40 个非 PPT 文件（封面图、说明等），见 `data/catalog.json`。
 
@@ -537,7 +537,7 @@
 
 ## 12. 09莫兰迪
 
-**4 个 PPT 模板** · 共 8 个条目 · 4 张封面/图片 · [在夸克打开该分类](https://pan.quark.cn/s/180767425d31#/list/share/3b3f96902cd3472a8b7e1dee909c9a02)
+**4 个 PPT 模板** · 共 8 个条目 · 4 张封面/图片 · [打开该分类](https://pan.quark.cn/s/180767425d31#/list/share/3b3f96902cd3472a8b7e1dee909c9a02)
 
 | # | 模板文件 | 大小 | 修改时间 |
 |---|----------|-----:|----------|
@@ -553,7 +553,7 @@
 
 ## 13. 10鎏金风
 
-**4 个 PPT 模板** · 共 8 个条目 · 4 张封面/图片 · [在夸克打开该分类](https://pan.quark.cn/s/180767425d31#/list/share/3a414d844e754e8b82a45e5283b5b7d5)
+**4 个 PPT 模板** · 共 8 个条目 · 4 张封面/图片 · [打开该分类](https://pan.quark.cn/s/180767425d31#/list/share/3a414d844e754e8b82a45e5283b5b7d5)
 
 | # | 模板文件 | 大小 | 修改时间 |
 |---|----------|-----:|----------|
@@ -569,7 +569,7 @@
 
 ## 14. 11科技
 
-**4 个 PPT 模板** · 共 8 个条目 · 4 张封面/图片 · [在夸克打开该分类](https://pan.quark.cn/s/180767425d31#/list/share/a959005ced1d486a949d9c11e74fd89b)
+**4 个 PPT 模板** · 共 8 个条目 · 4 张封面/图片 · [打开该分类](https://pan.quark.cn/s/180767425d31#/list/share/a959005ced1d486a949d9c11e74fd89b)
 
 | # | 模板文件 | 大小 | 修改时间 |
 |---|----------|-----:|----------|
@@ -585,7 +585,7 @@
 
 ## 15. 12中式PPT
 
-**8 个 PPT 模板** · 共 16 个条目 · 8 张封面/图片 · [在夸克打开该分类](https://pan.quark.cn/s/180767425d31#/list/share/be88d5c8849f4b9fb4215c75bf6c45f6)
+**8 个 PPT 模板** · 共 16 个条目 · 8 张封面/图片 · [打开该分类](https://pan.quark.cn/s/180767425d31#/list/share/be88d5c8849f4b9fb4215c75bf6c45f6)
 
 | # | 模板文件 | 大小 | 修改时间 |
 |---|----------|-----:|----------|
@@ -605,7 +605,7 @@
 
 ## 16. 13-培训课件
 
-**43 个 PPT 模板** · 共 44 个条目 · 43 张封面/图片 · [在夸克打开该分类](https://pan.quark.cn/s/180767425d31#/list/share/0e48b86070b444739f122e0bbd008906)
+**43 个 PPT 模板** · 共 44 个条目 · 43 张封面/图片 · [打开该分类](https://pan.quark.cn/s/180767425d31#/list/share/0e48b86070b444739f122e0bbd008906)
 
 | # | 模板文件 | 大小 | 修改时间 |
 |---|----------|-----:|----------|
@@ -654,7 +654,7 @@
 | 43 | 培训课件(43).pptx | 6.3 MB | 2024-12-07 |
 
 <details>
-<summary>📁 预览图 — 0 个模板 / 43 张图 · <a href="https://pan.quark.cn/s/180767425d31#/list/share/e482b4e1e50246238a4e06be1b96b369">在夸克打开</a></summary>
+<summary>📁 预览图 — 0 个模板 / 43 张图 · <a href="https://pan.quark.cn/s/180767425d31#/list/share/e482b4e1e50246238a4e06be1b96b369">打开</a></summary>
 
 > 同目录另有 43 个非 PPT 文件（封面图、说明等），见 `data/catalog.json`。
 
@@ -665,7 +665,7 @@
 
 ## 17. 13颁奖
 
-**5 个 PPT 模板** · 共 10 个条目 · 5 张封面/图片 · [在夸克打开该分类](https://pan.quark.cn/s/180767425d31#/list/share/cba8ce8bf41c4cc68fcc8f95797612b2)
+**5 个 PPT 模板** · 共 10 个条目 · 5 张封面/图片 · [打开该分类](https://pan.quark.cn/s/180767425d31#/list/share/cba8ce8bf41c4cc68fcc8f95797612b2)
 
 | # | 模板文件 | 大小 | 修改时间 |
 |---|----------|-----:|----------|
@@ -682,7 +682,7 @@
 
 ## 18. 15-年会颁奖
 
-**115 个 PPT 模板** · 共 116 个条目 · 115 张封面/图片 · [在夸克打开该分类](https://pan.quark.cn/s/180767425d31#/list/share/e4284380073441abb52f50063f04203d)
+**115 个 PPT 模板** · 共 116 个条目 · 115 张封面/图片 · [打开该分类](https://pan.quark.cn/s/180767425d31#/list/share/e4284380073441abb52f50063f04203d)
 
 | # | 模板文件 | 大小 | 修改时间 |
 |---|----------|-----:|----------|
@@ -803,7 +803,7 @@
 | 115 | 年会颁奖盛典晚会 (115).pptx | 330.0 MB | 2024-12-07 |
 
 <details>
-<summary>📁 预览图 — 0 个模板 / 115 张图 · <a href="https://pan.quark.cn/s/180767425d31#/list/share/761156ec462641868be96ed56fabedf5">在夸克打开</a></summary>
+<summary>📁 预览图 — 0 个模板 / 115 张图 · <a href="https://pan.quark.cn/s/180767425d31#/list/share/761156ec462641868be96ed56fabedf5">打开</a></summary>
 
 > 同目录另有 115 个非 PPT 文件（封面图、说明等），见 `data/catalog.json`。
 
@@ -814,7 +814,7 @@
 
 ## 19. 15婚庆爱情
 
-**7 个 PPT 模板** · 共 14 个条目 · 7 张封面/图片 · [在夸克打开该分类](https://pan.quark.cn/s/180767425d31#/list/share/a8202a07c9af455090644d3c447a2ee4)
+**7 个 PPT 模板** · 共 14 个条目 · 7 张封面/图片 · [打开该分类](https://pan.quark.cn/s/180767425d31#/list/share/a8202a07c9af455090644d3c447a2ee4)
 
 | # | 模板文件 | 大小 | 修改时间 |
 |---|----------|-----:|----------|
@@ -833,7 +833,7 @@
 
 ## 20. 16-路演金融
 
-**73 个 PPT 模板** · 共 74 个条目 · 73 张封面/图片 · [在夸克打开该分类](https://pan.quark.cn/s/180767425d31#/list/share/b14505ffd6c04640a7c998b9e351334a)
+**73 个 PPT 模板** · 共 74 个条目 · 73 张封面/图片 · [打开该分类](https://pan.quark.cn/s/180767425d31#/list/share/b14505ffd6c04640a7c998b9e351334a)
 
 | # | 模板文件 | 大小 | 修改时间 |
 |---|----------|-----:|----------|
@@ -912,7 +912,7 @@
 | 73 | 融资路演(73).pptx | 6.0 MB | 2024-12-07 |
 
 <details>
-<summary>📁 预览图 — 0 个模板 / 73 张图 · <a href="https://pan.quark.cn/s/180767425d31#/list/share/0bcb4cb5b3464621a8f615d050fddfb6">在夸克打开</a></summary>
+<summary>📁 预览图 — 0 个模板 / 73 张图 · <a href="https://pan.quark.cn/s/180767425d31#/list/share/0bcb4cb5b3464621a8f615d050fddfb6">打开</a></summary>
 
 > 同目录另有 73 个非 PPT 文件（封面图、说明等），见 `data/catalog.json`。
 
@@ -923,7 +923,7 @@
 
 ## 21. 16卡通
 
-**6 个 PPT 模板** · 共 12 个条目 · 6 张封面/图片 · [在夸克打开该分类](https://pan.quark.cn/s/180767425d31#/list/share/3f596f0816cc494d96fe59ec991938d5)
+**6 个 PPT 模板** · 共 12 个条目 · 6 张封面/图片 · [打开该分类](https://pan.quark.cn/s/180767425d31#/list/share/3f596f0816cc494d96fe59ec991938d5)
 
 | # | 模板文件 | 大小 | 修改时间 |
 |---|----------|-----:|----------|
@@ -941,7 +941,7 @@
 
 ## 22. 17-快闪PPT模板-竖版03
 
-**14 个 PPT 模板** · 共 15 个条目 · 14 张封面/图片 · [在夸克打开该分类](https://pan.quark.cn/s/180767425d31#/list/share/d8770a514cba4531a8cdffbd76f190d9)
+**14 个 PPT 模板** · 共 15 个条目 · 14 张封面/图片 · [打开该分类](https://pan.quark.cn/s/180767425d31#/list/share/d8770a514cba4531a8cdffbd76f190d9)
 
 | # | 模板文件 | 大小 | 修改时间 |
 |---|----------|-----:|----------|
@@ -961,7 +961,7 @@
 | 14 | 【模板14】旅游酷炫图文快闪动画通用PPT模板.pptx | 107.0 MB | 2024-12-07 |
 
 <details>
-<summary>📁 预览图 — 0 个模板 / 14 张图 · <a href="https://pan.quark.cn/s/180767425d31#/list/share/60dc1afdb9cb4ad78ffbd1782198b6d6">在夸克打开</a></summary>
+<summary>📁 预览图 — 0 个模板 / 14 张图 · <a href="https://pan.quark.cn/s/180767425d31#/list/share/60dc1afdb9cb4ad78ffbd1782198b6d6">打开</a></summary>
 
 > 同目录另有 14 个非 PPT 文件（封面图、说明等），见 `data/catalog.json`。
 
@@ -972,7 +972,7 @@
 
 ## 23. 17文艺
 
-**10 个 PPT 模板** · 共 20 个条目 · 10 张封面/图片 · [在夸克打开该分类](https://pan.quark.cn/s/180767425d31#/list/share/7f395119c43848fb9b2895b27192c036)
+**10 个 PPT 模板** · 共 20 个条目 · 10 张封面/图片 · [打开该分类](https://pan.quark.cn/s/180767425d31#/list/share/7f395119c43848fb9b2895b27192c036)
 
 | # | 模板文件 | 大小 | 修改时间 |
 |---|----------|-----:|----------|
@@ -994,10 +994,10 @@
 
 ## 24. 18-快闪PPT模板-宽版05
 
-**62 个 PPT 模板** · 共 4 个条目 · 62 张封面/图片 · [在夸克打开该分类](https://pan.quark.cn/s/180767425d31#/list/share/2899e0beb3b74f1090dab2e1d13f108e)
+**62 个 PPT 模板** · 共 4 个条目 · 62 张封面/图片 · [打开该分类](https://pan.quark.cn/s/180767425d31#/list/share/2899e0beb3b74f1090dab2e1d13f108e)
 
 <details>
-<summary>📁 公司招聘 — 6 个模板 / 6 张图 · <a href="https://pan.quark.cn/s/180767425d31#/list/share/f7aacac595e548aab7b3415959ba7003">在夸克打开</a></summary>
+<summary>📁 公司招聘 — 6 个模板 / 6 张图 · <a href="https://pan.quark.cn/s/180767425d31#/list/share/f7aacac595e548aab7b3415959ba7003">打开</a></summary>
 
 | # | 模板文件 | 大小 | 修改时间 |
 |---|----------|-----:|----------|
@@ -1009,7 +1009,7 @@
 | 6 | 【模板6】炫酷创意文字快闪公司招聘PPT模板.pptx | 4.0 MB | 2024-12-07 |
 
 <details>
-<summary>📁 预览图 — 0 个模板 / 6 张图 · <a href="https://pan.quark.cn/s/180767425d31#/list/share/ec0b7d1988d84edc8540bf1ca296c248">在夸克打开</a></summary>
+<summary>📁 预览图 — 0 个模板 / 6 张图 · <a href="https://pan.quark.cn/s/180767425d31#/list/share/ec0b7d1988d84edc8540bf1ca296c248">打开</a></summary>
 
 > 同目录另有 6 个非 PPT 文件（封面图、说明等），见 `data/catalog.json`。
 
@@ -1018,7 +1018,7 @@
 </details>
 
 <details>
-<summary>📁 生日祝福 — 10 个模板 / 10 张图 · <a href="https://pan.quark.cn/s/180767425d31#/list/share/9badd069a9b148b1935fd917b2464fcd">在夸克打开</a></summary>
+<summary>📁 生日祝福 — 10 个模板 / 10 张图 · <a href="https://pan.quark.cn/s/180767425d31#/list/share/9badd069a9b148b1935fd917b2464fcd">打开</a></summary>
 
 | # | 模板文件 | 大小 | 修改时间 |
 |---|----------|-----:|----------|
@@ -1034,7 +1034,7 @@
 | 10 | 【模板10】情侣生日表白公司生日.pptx | 5.2 MB | 2024-12-07 |
 
 <details>
-<summary>📁 预览图 — 0 个模板 / 10 张图 · <a href="https://pan.quark.cn/s/180767425d31#/list/share/d975d2c042b347cf8145223ed52a5686">在夸克打开</a></summary>
+<summary>📁 预览图 — 0 个模板 / 10 张图 · <a href="https://pan.quark.cn/s/180767425d31#/list/share/d975d2c042b347cf8145223ed52a5686">打开</a></summary>
 
 > 同目录另有 10 个非 PPT 文件（封面图、说明等），见 `data/catalog.json`。
 
@@ -1043,7 +1043,7 @@
 </details>
 
 <details>
-<summary>📁 商业快闪 — 23 个模板 / 23 张图 · <a href="https://pan.quark.cn/s/180767425d31#/list/share/47bbe0ec5a6b41a29e6b8869997fbc3c">在夸克打开</a></summary>
+<summary>📁 商业快闪 — 23 个模板 / 23 张图 · <a href="https://pan.quark.cn/s/180767425d31#/list/share/47bbe0ec5a6b41a29e6b8869997fbc3c">打开</a></summary>
 
 | # | 模板文件 | 大小 | 修改时间 |
 |---|----------|-----:|----------|
@@ -1072,7 +1072,7 @@
 | 23 | 【模板23】图文快闪模板.pptx | 29.0 MB | 2024-12-07 |
 
 <details>
-<summary>📁 预览图 — 0 个模板 / 23 张图 · <a href="https://pan.quark.cn/s/180767425d31#/list/share/60d86e6f746d4114b628e7f5e1724136">在夸克打开</a></summary>
+<summary>📁 预览图 — 0 个模板 / 23 张图 · <a href="https://pan.quark.cn/s/180767425d31#/list/share/60d86e6f746d4114b628e7f5e1724136">打开</a></summary>
 
 > 同目录另有 23 个非 PPT 文件（封面图、说明等），见 `data/catalog.json`。
 
@@ -1081,7 +1081,7 @@
 </details>
 
 <details>
-<summary>📁 影视、旅游及其他 — 23 个模板 / 23 张图 · <a href="https://pan.quark.cn/s/180767425d31#/list/share/00be24df4e7640c0b35ae808a33cb3e0">在夸克打开</a></summary>
+<summary>📁 影视、旅游及其他 — 23 个模板 / 23 张图 · <a href="https://pan.quark.cn/s/180767425d31#/list/share/00be24df4e7640c0b35ae808a33cb3e0">打开</a></summary>
 
 | # | 模板文件 | 大小 | 修改时间 |
 |---|----------|-----:|----------|
@@ -1110,7 +1110,7 @@
 | 23 | 【模板23】快闪.pptx | 1.5 MB | 2024-12-07 |
 
 <details>
-<summary>📁 其他预览图 — 0 个模板 / 23 张图 · <a href="https://pan.quark.cn/s/180767425d31#/list/share/10b78c3fbb96458ca236ad45b94765d8">在夸克打开</a></summary>
+<summary>📁 其他预览图 — 0 个模板 / 23 张图 · <a href="https://pan.quark.cn/s/180767425d31#/list/share/10b78c3fbb96458ca236ad45b94765d8">打开</a></summary>
 
 > 同目录另有 23 个非 PPT 文件（封面图、说明等），见 `data/catalog.json`。
 
@@ -1123,7 +1123,7 @@
 
 ## 25. 18动态PPT
 
-**5 个 PPT 模板** · 共 10 个条目 · 5 张封面/图片 · [在夸克打开该分类](https://pan.quark.cn/s/180767425d31#/list/share/21083b071a154cbcaa5064763969ea41)
+**5 个 PPT 模板** · 共 10 个条目 · 5 张封面/图片 · [打开该分类](https://pan.quark.cn/s/180767425d31#/list/share/21083b071a154cbcaa5064763969ea41)
 
 | # | 模板文件 | 大小 | 修改时间 |
 |---|----------|-----:|----------|
@@ -1140,10 +1140,10 @@
 
 ## 26. 19-快闪PPT模板-宽版04
 
-**57 个 PPT 模板** · 共 3 个条目 · 57 张封面/图片 · [在夸克打开该分类](https://pan.quark.cn/s/180767425d31#/list/share/008d8159d5a84d039dcbb46a3f96c9ab)
+**57 个 PPT 模板** · 共 3 个条目 · 57 张封面/图片 · [打开该分类](https://pan.quark.cn/s/180767425d31#/list/share/008d8159d5a84d039dcbb46a3f96c9ab)
 
 <details>
-<summary>📁 爱情婚礼 — 13 个模板 / 13 张图 · <a href="https://pan.quark.cn/s/180767425d31#/list/share/afa2e8f4b40943978b5908c679bdf7b3">在夸克打开</a></summary>
+<summary>📁 爱情婚礼 — 13 个模板 / 13 张图 · <a href="https://pan.quark.cn/s/180767425d31#/list/share/afa2e8f4b40943978b5908c679bdf7b3">打开</a></summary>
 
 | # | 模板文件 | 大小 | 修改时间 |
 |---|----------|-----:|----------|
@@ -1162,7 +1162,7 @@
 | 13 | 【模板13】求婚快闪PPT.pptx | 48.9 MB | 2024-12-07 |
 
 <details>
-<summary>📁 预览图 — 0 个模板 / 13 张图 · <a href="https://pan.quark.cn/s/180767425d31#/list/share/8da5359eda004aff85d8ce3fc16b5b64">在夸克打开</a></summary>
+<summary>📁 预览图 — 0 个模板 / 13 张图 · <a href="https://pan.quark.cn/s/180767425d31#/list/share/8da5359eda004aff85d8ce3fc16b5b64">打开</a></summary>
 
 > 同目录另有 13 个非 PPT 文件（封面图、说明等），见 `data/catalog.json`。
 
@@ -1171,7 +1171,7 @@
 </details>
 
 <details>
-<summary>📁 产品推广、宣传 — 36 个模板 / 36 张图 · <a href="https://pan.quark.cn/s/180767425d31#/list/share/69cd2400642a48f68194e7f40215a620">在夸克打开</a></summary>
+<summary>📁 产品推广、宣传 — 36 个模板 / 36 张图 · <a href="https://pan.quark.cn/s/180767425d31#/list/share/69cd2400642a48f68194e7f40215a620">打开</a></summary>
 
 | # | 模板文件 | 大小 | 修改时间 |
 |---|----------|-----:|----------|
@@ -1213,7 +1213,7 @@
 | 36 | 【模板36】快闪模板3.pptx | 1.1 MB | 2024-12-07 |
 
 <details>
-<summary>📁 预览图 — 0 个模板 / 36 张图 · <a href="https://pan.quark.cn/s/180767425d31#/list/share/37a0ce5e4bb8478e99127d809797b919">在夸克打开</a></summary>
+<summary>📁 预览图 — 0 个模板 / 36 张图 · <a href="https://pan.quark.cn/s/180767425d31#/list/share/37a0ce5e4bb8478e99127d809797b919">打开</a></summary>
 
 > 同目录另有 36 个非 PPT 文件（封面图、说明等），见 `data/catalog.json`。
 
@@ -1222,7 +1222,7 @@
 </details>
 
 <details>
-<summary>📁 个人介绍 — 8 个模板 / 8 张图 · <a href="https://pan.quark.cn/s/180767425d31#/list/share/b9087982bf434a3299f9fc9cfe1bfc5b">在夸克打开</a></summary>
+<summary>📁 个人介绍 — 8 个模板 / 8 张图 · <a href="https://pan.quark.cn/s/180767425d31#/list/share/b9087982bf434a3299f9fc9cfe1bfc5b">打开</a></summary>
 
 | # | 模板文件 | 大小 | 修改时间 |
 |---|----------|-----:|----------|
@@ -1236,7 +1236,7 @@
 | 8 | 【模板8】教师自我介绍.pptx | 4.2 MB | 2024-12-07 |
 
 <details>
-<summary>📁 预览图 — 0 个模板 / 8 张图 · <a href="https://pan.quark.cn/s/180767425d31#/list/share/d0abc946f01841b39fa23badfc2f3daa">在夸克打开</a></summary>
+<summary>📁 预览图 — 0 个模板 / 8 张图 · <a href="https://pan.quark.cn/s/180767425d31#/list/share/d0abc946f01841b39fa23badfc2f3daa">打开</a></summary>
 
 > 同目录另有 8 个非 PPT 文件（封面图、说明等），见 `data/catalog.json`。
 
@@ -1249,7 +1249,7 @@
 
 ## 27. 19快闪
 
-**3 个 PPT 模板** · 共 6 个条目 · 3 张封面/图片 · [在夸克打开该分类](https://pan.quark.cn/s/180767425d31#/list/share/426a515d0e0042deaac610bb220cc63c)
+**3 个 PPT 模板** · 共 6 个条目 · 3 张封面/图片 · [打开该分类](https://pan.quark.cn/s/180767425d31#/list/share/426a515d0e0042deaac610bb220cc63c)
 
 | # | 模板文件 | 大小 | 修改时间 |
 |---|----------|-----:|----------|
@@ -1264,7 +1264,7 @@
 
 ## 28. 20-快闪PPT模板-宽版02
 
-**109 个 PPT 模板** · 共 110 个条目 · 108 张封面/图片 · [在夸克打开该分类](https://pan.quark.cn/s/180767425d31#/list/share/7fcdc8aefddd4421aebf75b98d0f61aa)
+**109 个 PPT 模板** · 共 110 个条目 · 108 张封面/图片 · [打开该分类](https://pan.quark.cn/s/180767425d31#/list/share/7fcdc8aefddd4421aebf75b98d0f61aa)
 
 | # | 模板文件 | 大小 | 修改时间 |
 |---|----------|-----:|----------|
@@ -1379,7 +1379,7 @@
 | 109 | 【编号167】自我介绍开场快闪PPT模板.pptx | 10.9 MB | 2024-12-07 |
 
 <details>
-<summary>📁 预览图 — 0 个模板 / 108 张图 · <a href="https://pan.quark.cn/s/180767425d31#/list/share/5ab910dc733d4908975ccb4532684cce">在夸克打开</a></summary>
+<summary>📁 预览图 — 0 个模板 / 108 张图 · <a href="https://pan.quark.cn/s/180767425d31#/list/share/5ab910dc733d4908975ccb4532684cce">打开</a></summary>
 
 > 同目录另有 108 个非 PPT 文件（封面图、说明等），见 `data/catalog.json`。
 
@@ -1390,7 +1390,7 @@
 
 ## 29. 20绿色环保
 
-**2 个 PPT 模板** · 共 4 个条目 · 2 张封面/图片 · [在夸克打开该分类](https://pan.quark.cn/s/180767425d31#/list/share/776eacc7ea9041e8b4411c6f33174e0b)
+**2 个 PPT 模板** · 共 4 个条目 · 2 张封面/图片 · [打开该分类](https://pan.quark.cn/s/180767425d31#/list/share/776eacc7ea9041e8b4411c6f33174e0b)
 
 | # | 模板文件 | 大小 | 修改时间 |
 |---|----------|-----:|----------|
@@ -1404,7 +1404,7 @@
 
 ## 30. 21-快闪PPT模板-宽版01
 
-**50 个 PPT 模板** · 共 51 个条目 · 50 张封面/图片 · [在夸克打开该分类](https://pan.quark.cn/s/180767425d31#/list/share/3234c6f57f8449ae9069e4432f105a0d)
+**50 个 PPT 模板** · 共 51 个条目 · 50 张封面/图片 · [打开该分类](https://pan.quark.cn/s/180767425d31#/list/share/3234c6f57f8449ae9069e4432f105a0d)
 
 | # | 模板文件 | 大小 | 修改时间 |
 |---|----------|-----:|----------|
@@ -1460,7 +1460,7 @@
 | 50 | 【编号50】洗碗机抖音PPT新产品发布项目介绍.pptx | 32.0 MB | 2024-12-07 |
 
 <details>
-<summary>📁 预览图 — 0 个模板 / 50 张图 · <a href="https://pan.quark.cn/s/180767425d31#/list/share/b7336d010c9d4e8e88819a434c1cfabe">在夸克打开</a></summary>
+<summary>📁 预览图 — 0 个模板 / 50 张图 · <a href="https://pan.quark.cn/s/180767425d31#/list/share/b7336d010c9d4e8e88819a434c1cfabe">打开</a></summary>
 
 > 同目录另有 50 个非 PPT 文件（封面图、说明等），见 `data/catalog.json`。
 
@@ -1471,7 +1471,7 @@
 
 ## 31. 21IOS
 
-**2 个 PPT 模板** · 共 4 个条目 · 2 张封面/图片 · [在夸克打开该分类](https://pan.quark.cn/s/180767425d31#/list/share/9bd8d63e970242e18f8c22b845815809)
+**2 个 PPT 模板** · 共 4 个条目 · 2 张封面/图片 · [打开该分类](https://pan.quark.cn/s/180767425d31#/list/share/9bd8d63e970242e18f8c22b845815809)
 
 | # | 模板文件 | 大小 | 修改时间 |
 |---|----------|-----:|----------|
@@ -1485,7 +1485,7 @@
 
 ## 32. 22剪纸风
 
-**2 个 PPT 模板** · 共 4 个条目 · 2 张封面/图片 · [在夸克打开该分类](https://pan.quark.cn/s/180767425d31#/list/share/835ffc7fd30c4da78016e5e8daaa315b)
+**2 个 PPT 模板** · 共 4 个条目 · 2 张封面/图片 · [打开该分类](https://pan.quark.cn/s/180767425d31#/list/share/835ffc7fd30c4da78016e5e8daaa315b)
 
 | # | 模板文件 | 大小 | 修改时间 |
 |---|----------|-----:|----------|
@@ -1499,7 +1499,7 @@
 
 ## 33. 23美食
 
-**3 个 PPT 模板** · 共 6 个条目 · 3 张封面/图片 · [在夸克打开该分类](https://pan.quark.cn/s/180767425d31#/list/share/a12fe01178f14a03a89095c8e4216c59)
+**3 个 PPT 模板** · 共 6 个条目 · 3 张封面/图片 · [打开该分类](https://pan.quark.cn/s/180767425d31#/list/share/a12fe01178f14a03a89095c8e4216c59)
 
 | # | 模板文件 | 大小 | 修改时间 |
 |---|----------|-----:|----------|
@@ -1514,7 +1514,7 @@
 
 ## 34. 24国潮
 
-**2 个 PPT 模板** · 共 4 个条目 · 2 张封面/图片 · [在夸克打开该分类](https://pan.quark.cn/s/180767425d31#/list/share/339bcab192a74bfda1939582f4a97f64)
+**2 个 PPT 模板** · 共 4 个条目 · 2 张封面/图片 · [打开该分类](https://pan.quark.cn/s/180767425d31#/list/share/339bcab192a74bfda1939582f4a97f64)
 
 | # | 模板文件 | 大小 | 修改时间 |
 |---|----------|-----:|----------|
@@ -1528,7 +1528,7 @@
 
 ## 35. 25朋克
 
-**2 个 PPT 模板** · 共 4 个条目 · 2 张封面/图片 · [在夸克打开该分类](https://pan.quark.cn/s/180767425d31#/list/share/35e0deed419540fd95d537fa3c6cb6ed)
+**2 个 PPT 模板** · 共 4 个条目 · 2 张封面/图片 · [打开该分类](https://pan.quark.cn/s/180767425d31#/list/share/35e0deed419540fd95d537fa3c6cb6ed)
 
 | # | 模板文件 | 大小 | 修改时间 |
 |---|----------|-----:|----------|
@@ -1542,7 +1542,7 @@
 
 ## 36. 26-个人简历
 
-**65 个 PPT 模板** · 共 66 个条目 · 65 张封面/图片 · [在夸克打开该分类](https://pan.quark.cn/s/180767425d31#/list/share/da34c3ee751b400bb70568d9d8f3d842)
+**65 个 PPT 模板** · 共 66 个条目 · 65 张封面/图片 · [打开该分类](https://pan.quark.cn/s/180767425d31#/list/share/da34c3ee751b400bb70568d9d8f3d842)
 
 | # | 模板文件 | 大小 | 修改时间 |
 |---|----------|-----:|----------|
@@ -1613,7 +1613,7 @@
 | 65 | 竞聘简历(67).pptx | 7.1 MB | 2024-12-07 |
 
 <details>
-<summary>📁 预览图 — 0 个模板 / 65 张图 · <a href="https://pan.quark.cn/s/180767425d31#/list/share/8ffa2740d2fb43fc9c8ad16486ab831b">在夸克打开</a></summary>
+<summary>📁 预览图 — 0 个模板 / 65 张图 · <a href="https://pan.quark.cn/s/180767425d31#/list/share/8ffa2740d2fb43fc9c8ad16486ab831b">打开</a></summary>
 
 > 同目录另有 65 个非 PPT 文件（封面图、说明等），见 `data/catalog.json`。
 
@@ -1624,7 +1624,7 @@
 
 ## 37. 26竞选-小学生
 
-**3 个 PPT 模板** · 共 6 个条目 · 3 张封面/图片 · [在夸克打开该分类](https://pan.quark.cn/s/180767425d31#/list/share/7291e71549c04253906e508cc485761e)
+**3 个 PPT 模板** · 共 6 个条目 · 3 张封面/图片 · [打开该分类](https://pan.quark.cn/s/180767425d31#/list/share/7291e71549c04253906e508cc485761e)
 
 | # | 模板文件 | 大小 | 修改时间 |
 |---|----------|-----:|----------|
@@ -1639,7 +1639,7 @@
 
 ## 38. 27欧美大气
 
-**4 个 PPT 模板** · 共 8 个条目 · 4 张封面/图片 · [在夸克打开该分类](https://pan.quark.cn/s/180767425d31#/list/share/66607e79e0004d54a4916f7dba6f4f3c)
+**4 个 PPT 模板** · 共 8 个条目 · 4 张封面/图片 · [打开该分类](https://pan.quark.cn/s/180767425d31#/list/share/66607e79e0004d54a4916f7dba6f4f3c)
 
 | # | 模板文件 | 大小 | 修改时间 |
 |---|----------|-----:|----------|
@@ -1655,7 +1655,7 @@
 
 ## 39. 28-创意风格
 
-**59 个 PPT 模板** · 共 60 个条目 · 59 张封面/图片 · [在夸克打开该分类](https://pan.quark.cn/s/180767425d31#/list/share/c323566d235b4fc3b1eef8fcd5013258)
+**59 个 PPT 模板** · 共 60 个条目 · 59 张封面/图片 · [打开该分类](https://pan.quark.cn/s/180767425d31#/list/share/c323566d235b4fc3b1eef8fcd5013258)
 
 | # | 模板文件 | 大小 | 修改时间 |
 |---|----------|-----:|----------|
@@ -1720,7 +1720,7 @@
 | 59 | 创意风格 (60).pptx | 31.6 MB | 2024-12-07 |
 
 <details>
-<summary>📁 预览图 — 0 个模板 / 59 张图 · <a href="https://pan.quark.cn/s/180767425d31#/list/share/0fa366ee3cd640ecbdab7b0e8ccbc3a7">在夸克打开</a></summary>
+<summary>📁 预览图 — 0 个模板 / 59 张图 · <a href="https://pan.quark.cn/s/180767425d31#/list/share/0fa366ee3cd640ecbdab7b0e8ccbc3a7">打开</a></summary>
 
 > 同目录另有 59 个非 PPT 文件（封面图、说明等），见 `data/catalog.json`。
 
@@ -1731,7 +1731,7 @@
 
 ## 40. 29-产品发布
 
-**20 个 PPT 模板** · 共 21 个条目 · 20 张封面/图片 · [在夸克打开该分类](https://pan.quark.cn/s/180767425d31#/list/share/5e16e6bf41be45368ff04053bbb02365)
+**20 个 PPT 模板** · 共 21 个条目 · 20 张封面/图片 · [打开该分类](https://pan.quark.cn/s/180767425d31#/list/share/5e16e6bf41be45368ff04053bbb02365)
 
 | # | 模板文件 | 大小 | 修改时间 |
 |---|----------|-----:|----------|
@@ -1757,7 +1757,7 @@
 | 20 | 产品发布 (20).pptx | 59.8 MB | 2024-12-07 |
 
 <details>
-<summary>📁 预览图 — 0 个模板 / 20 张图 · <a href="https://pan.quark.cn/s/180767425d31#/list/share/85fc8d102262463a8cac7a453b4c04eb">在夸克打开</a></summary>
+<summary>📁 预览图 — 0 个模板 / 20 张图 · <a href="https://pan.quark.cn/s/180767425d31#/list/share/85fc8d102262463a8cac7a453b4c04eb">打开</a></summary>
 
 > 同目录另有 20 个非 PPT 文件（封面图、说明等），见 `data/catalog.json`。
 
@@ -1768,7 +1768,7 @@
 
 ## 41. 30-扁平风格
 
-**77 个 PPT 模板** · 共 78 个条目 · 76 张封面/图片 · [在夸克打开该分类](https://pan.quark.cn/s/180767425d31#/list/share/101c49b9dca44d96b114009c3f3887b0)
+**77 个 PPT 模板** · 共 78 个条目 · 76 张封面/图片 · [打开该分类](https://pan.quark.cn/s/180767425d31#/list/share/101c49b9dca44d96b114009c3f3887b0)
 
 | # | 模板文件 | 大小 | 修改时间 |
 |---|----------|-----:|----------|
@@ -1851,7 +1851,7 @@
 | 77 | 扁平风格(79).pptx | 11.0 MB | 2024-12-07 |
 
 <details>
-<summary>📁 预览图 — 0 个模板 / 76 张图 · <a href="https://pan.quark.cn/s/180767425d31#/list/share/605b9dcaa33547be8bad3608c641d0bb">在夸克打开</a></summary>
+<summary>📁 预览图 — 0 个模板 / 76 张图 · <a href="https://pan.quark.cn/s/180767425d31#/list/share/605b9dcaa33547be8bad3608c641d0bb">打开</a></summary>
 
 > 同目录另有 76 个非 PPT 文件（封面图、说明等），见 `data/catalog.json`。
 
@@ -1862,13 +1862,13 @@
 
 ## 42. 36-手绘风格
 
-**90 个 PPT 模板** · 共 1 个条目 · 90 张封面/图片 · [在夸克打开该分类](https://pan.quark.cn/s/180767425d31#/list/share/857959c15d844cdf849b1f5e27e4cd92)
+**90 个 PPT 模板** · 共 1 个条目 · 90 张封面/图片 · [打开该分类](https://pan.quark.cn/s/180767425d31#/list/share/857959c15d844cdf849b1f5e27e4cd92)
 
 <details>
-<summary>📁 【022】手绘风格（点击进入下载） — 90 个模板 / 90 张图 · <a href="https://pan.quark.cn/s/180767425d31#/list/share/6ac8127617884f51b8d836792136bd4f">在夸克打开</a></summary>
+<summary>📁 【022】手绘风格（点击进入下载） — 90 个模板 / 90 张图 · <a href="https://pan.quark.cn/s/180767425d31#/list/share/6ac8127617884f51b8d836792136bd4f">打开</a></summary>
 
 <details>
-<summary>📁 手绘风格 — 90 个模板 / 90 张图 · <a href="https://pan.quark.cn/s/180767425d31#/list/share/c56714d41f07402dac143a8c8bbd6526">在夸克打开</a></summary>
+<summary>📁 手绘风格 — 90 个模板 / 90 张图 · <a href="https://pan.quark.cn/s/180767425d31#/list/share/c56714d41f07402dac143a8c8bbd6526">打开</a></summary>
 
 | # | 模板文件 | 大小 | 修改时间 |
 |---|----------|-----:|----------|
@@ -1964,7 +1964,7 @@
 | 90 | 手绘风格 (90).pptx | 54.4 MB | 2024-12-07 |
 
 <details>
-<summary>📁 目录（图片预览） — 0 个模板 / 90 张图 · <a href="https://pan.quark.cn/s/180767425d31#/list/share/755a5177a7b64c4abaa6309768365259">在夸克打开</a></summary>
+<summary>📁 目录（图片预览） — 0 个模板 / 90 张图 · <a href="https://pan.quark.cn/s/180767425d31#/list/share/755a5177a7b64c4abaa6309768365259">打开</a></summary>
 
 > 同目录另有 90 个非 PPT 文件（封面图、说明等），见 `data/catalog.json`。
 
@@ -1979,13 +1979,13 @@
 
 ## 43. 49-室内设计
 
-**40 个 PPT 模板** · 共 1 个条目 · 40 张封面/图片 · [在夸克打开该分类](https://pan.quark.cn/s/180767425d31#/list/share/cae0655b760f465aa9f35deaf294a5d3)
+**40 个 PPT 模板** · 共 1 个条目 · 40 张封面/图片 · [打开该分类](https://pan.quark.cn/s/180767425d31#/list/share/cae0655b760f465aa9f35deaf294a5d3)
 
 <details>
-<summary>📁 【039】室内设计（点击进入下载） — 40 个模板 / 40 张图 · <a href="https://pan.quark.cn/s/180767425d31#/list/share/fc100d324ee847be9b3f2e0af4f8f55b">在夸克打开</a></summary>
+<summary>📁 【039】室内设计（点击进入下载） — 40 个模板 / 40 张图 · <a href="https://pan.quark.cn/s/180767425d31#/list/share/fc100d324ee847be9b3f2e0af4f8f55b">打开</a></summary>
 
 <details>
-<summary>📁 室内设计 — 40 个模板 / 40 张图 · <a href="https://pan.quark.cn/s/180767425d31#/list/share/510432b42c67420ca6bd10196be0ae44">在夸克打开</a></summary>
+<summary>📁 室内设计 — 40 个模板 / 40 张图 · <a href="https://pan.quark.cn/s/180767425d31#/list/share/510432b42c67420ca6bd10196be0ae44">打开</a></summary>
 
 | # | 模板文件 | 大小 | 修改时间 |
 |---|----------|-----:|----------|
@@ -2031,7 +2031,7 @@
 | 40 | 室内设计 (40).pptx | 16.5 MB | 2024-12-07 |
 
 <details>
-<summary>📁 目录（图片预览） — 0 个模板 / 40 张图 · <a href="https://pan.quark.cn/s/180767425d31#/list/share/3620d7c6257e42af82b6c4c82896fa0a">在夸克打开</a></summary>
+<summary>📁 目录（图片预览） — 0 个模板 / 40 张图 · <a href="https://pan.quark.cn/s/180767425d31#/list/share/3620d7c6257e42af82b6c4c82896fa0a">打开</a></summary>
 
 > 同目录另有 40 个非 PPT 文件（封面图、说明等），见 `data/catalog.json`。
 
@@ -2046,10 +2046,10 @@
 
 ## 44. 50-城市建设
 
-**35 个 PPT 模板** · 共 1 个条目 · 35 张封面/图片 · [在夸克打开该分类](https://pan.quark.cn/s/180767425d31#/list/share/27bab26db8f7476a8c094c2d60188d7a)
+**35 个 PPT 模板** · 共 1 个条目 · 35 张封面/图片 · [打开该分类](https://pan.quark.cn/s/180767425d31#/list/share/27bab26db8f7476a8c094c2d60188d7a)
 
 <details>
-<summary>📁 【040】城市建设（点击进入下载） — 35 个模板 / 35 张图 · <a href="https://pan.quark.cn/s/180767425d31#/list/share/1db3e7fe48bf4a86a101729b596e7564">在夸克打开</a></summary>
+<summary>📁 【040】城市建设（点击进入下载） — 35 个模板 / 35 张图 · <a href="https://pan.quark.cn/s/180767425d31#/list/share/1db3e7fe48bf4a86a101729b596e7564">打开</a></summary>
 
 | # | 模板文件 | 大小 | 修改时间 |
 |---|----------|-----:|----------|
@@ -2090,14 +2090,14 @@
 | 35 | 城市建设 (35).pptx | 12.9 MB | 2024-12-07 |
 
 <details>
-<summary>📁 目录（图片预览） — 0 个模板 / 34 张图 · <a href="https://pan.quark.cn/s/180767425d31#/list/share/097579139f3640a18c95d8c457e4bfe9">在夸克打开</a></summary>
+<summary>📁 目录（图片预览） — 0 个模板 / 34 张图 · <a href="https://pan.quark.cn/s/180767425d31#/list/share/097579139f3640a18c95d8c457e4bfe9">打开</a></summary>
 
 > 同目录另有 34 个非 PPT 文件（封面图、说明等），见 `data/catalog.json`。
 
 </details>
 
 <details>
-<summary>📁 目录（图片预览） — 0 个模板 / 1 张图 · <a href="https://pan.quark.cn/s/180767425d31#/list/share/635d82faecb84cca93683f5d42bc8793">在夸克打开</a></summary>
+<summary>📁 目录（图片预览） — 0 个模板 / 1 张图 · <a href="https://pan.quark.cn/s/180767425d31#/list/share/635d82faecb84cca93683f5d42bc8793">打开</a></summary>
 
 > 同目录另有 1 个非 PPT 文件（封面图、说明等），见 `data/catalog.json`。
 
@@ -2110,17 +2110,17 @@
 
 ## 45. 52-餐饮美食
 
-**132 个 PPT 模板** · 共 2 个条目 · 188 张封面/图片 · [在夸克打开该分类](https://pan.quark.cn/s/180767425d31#/list/share/837985d995a24ecf9f4ce2f2240bfebf)
+**132 个 PPT 模板** · 共 2 个条目 · 188 张封面/图片 · [打开该分类](https://pan.quark.cn/s/180767425d31#/list/share/837985d995a24ecf9f4ce2f2240bfebf)
 
 <details>
-<summary>📁 未压缩 — 132 个模板 / 151 张图 · <a href="https://pan.quark.cn/s/180767425d31#/list/share/18f35b14d94b4673bbf8252406a64475">在夸克打开</a></summary>
+<summary>📁 未压缩 — 132 个模板 / 151 张图 · <a href="https://pan.quark.cn/s/180767425d31#/list/share/18f35b14d94b4673bbf8252406a64475">打开</a></summary>
 
 | # | 模板文件 | 大小 | 修改时间 |
 |---|----------|-----:|----------|
 | 1 | 买家指南---ppt动画入门教程.pptx | 3.8 MB | 2024-12-07 |
 
 <details>
-<summary>📁 保健品-1套 — 1 个模板 / 1 张图 · <a href="https://pan.quark.cn/s/180767425d31#/list/share/3082437149ac4c3aa5657c8f2e57d86a">在夸克打开</a></summary>
+<summary>📁 保健品-1套 — 1 个模板 / 1 张图 · <a href="https://pan.quark.cn/s/180767425d31#/list/share/3082437149ac4c3aa5657c8f2e57d86a">打开</a></summary>
 
 | # | 模板文件 | 大小 | 修改时间 |
 |---|----------|-----:|----------|
@@ -2131,7 +2131,7 @@
 </details>
 
 <details>
-<summary>📁 蛋糕甜品糕点-19套 — 19 个模板 / 19 张图 · <a href="https://pan.quark.cn/s/180767425d31#/list/share/30848dc1ee95457e97eed0044330d0b0">在夸克打开</a></summary>
+<summary>📁 蛋糕甜品糕点-19套 — 19 个模板 / 19 张图 · <a href="https://pan.quark.cn/s/180767425d31#/list/share/30848dc1ee95457e97eed0044330d0b0">打开</a></summary>
 
 | # | 模板文件 | 大小 | 修改时间 |
 |---|----------|-----:|----------|
@@ -2160,7 +2160,7 @@
 </details>
 
 <details>
-<summary>📁 调味料-3套 — 3 个模板 / 3 张图 · <a href="https://pan.quark.cn/s/180767425d31#/list/share/9f7c534bf37944e68f7d13588d642934">在夸克打开</a></summary>
+<summary>📁 调味料-3套 — 3 个模板 / 3 张图 · <a href="https://pan.quark.cn/s/180767425d31#/list/share/9f7c534bf37944e68f7d13588d642934">打开</a></summary>
 
 | # | 模板文件 | 大小 | 修改时间 |
 |---|----------|-----:|----------|
@@ -2173,7 +2173,7 @@
 </details>
 
 <details>
-<summary>📁 蜂蜜-3套 — 3 个模板 / 3 张图 · <a href="https://pan.quark.cn/s/180767425d31#/list/share/784cb7da3e5c48cf95829528f3b406da">在夸克打开</a></summary>
+<summary>📁 蜂蜜-3套 — 3 个模板 / 3 张图 · <a href="https://pan.quark.cn/s/180767425d31#/list/share/784cb7da3e5c48cf95829528f3b406da">打开</a></summary>
 
 | # | 模板文件 | 大小 | 修改时间 |
 |---|----------|-----:|----------|
@@ -2186,7 +2186,7 @@
 </details>
 
 <details>
-<summary>📁 果汁-8套 — 8 个模板 / 8 张图 · <a href="https://pan.quark.cn/s/180767425d31#/list/share/dbc2bba384b34b759d6cf4f1a6e0d77e">在夸克打开</a></summary>
+<summary>📁 果汁-8套 — 8 个模板 / 8 张图 · <a href="https://pan.quark.cn/s/180767425d31#/list/share/dbc2bba384b34b759d6cf4f1a6e0d77e">打开</a></summary>
 
 | # | 模板文件 | 大小 | 修改时间 |
 |---|----------|-----:|----------|
@@ -2204,7 +2204,7 @@
 </details>
 
 <details>
-<summary>📁 海参-2套 — 2 个模板 / 2 张图 · <a href="https://pan.quark.cn/s/180767425d31#/list/share/1fb07fa84e8146d9b286b6cbc42f5fe0">在夸克打开</a></summary>
+<summary>📁 海参-2套 — 2 个模板 / 2 张图 · <a href="https://pan.quark.cn/s/180767425d31#/list/share/1fb07fa84e8146d9b286b6cbc42f5fe0">打开</a></summary>
 
 | # | 模板文件 | 大小 | 修改时间 |
 |---|----------|-----:|----------|
@@ -2216,7 +2216,7 @@
 </details>
 
 <details>
-<summary>📁 火锅-3套 — 3 个模板 / 3 张图 · <a href="https://pan.quark.cn/s/180767425d31#/list/share/f87f311a267040608fdc14353b14cb02">在夸克打开</a></summary>
+<summary>📁 火锅-3套 — 3 个模板 / 3 张图 · <a href="https://pan.quark.cn/s/180767425d31#/list/share/f87f311a267040608fdc14353b14cb02">打开</a></summary>
 
 | # | 模板文件 | 大小 | 修改时间 |
 |---|----------|-----:|----------|
@@ -2229,7 +2229,7 @@
 </details>
 
 <details>
-<summary>📁 海鲜-6套 — 6 个模板 / 6 张图 · <a href="https://pan.quark.cn/s/180767425d31#/list/share/47c7878f683b4a07b01a9c6aa56209f7">在夸克打开</a></summary>
+<summary>📁 海鲜-6套 — 6 个模板 / 6 张图 · <a href="https://pan.quark.cn/s/180767425d31#/list/share/47c7878f683b4a07b01a9c6aa56209f7">打开</a></summary>
 
 | # | 模板文件 | 大小 | 修改时间 |
 |---|----------|-----:|----------|
@@ -2245,7 +2245,7 @@
 </details>
 
 <details>
-<summary>📁 健康食品营养-6套 — 6 个模板 / 6 张图 · <a href="https://pan.quark.cn/s/180767425d31#/list/share/38b0c5e10e134befb25bad263e6484e3">在夸克打开</a></summary>
+<summary>📁 健康食品营养-6套 — 6 个模板 / 6 张图 · <a href="https://pan.quark.cn/s/180767425d31#/list/share/38b0c5e10e134befb25bad263e6484e3">打开</a></summary>
 
 | # | 模板文件 | 大小 | 修改时间 |
 |---|----------|-----:|----------|
@@ -2261,7 +2261,7 @@
 </details>
 
 <details>
-<summary>📁 烤肉-1套 — 1 个模板 / 1 张图 · <a href="https://pan.quark.cn/s/180767425d31#/list/share/eda6546f4cf748dba6a73c926eec09f0">在夸克打开</a></summary>
+<summary>📁 烤肉-1套 — 1 个模板 / 1 张图 · <a href="https://pan.quark.cn/s/180767425d31#/list/share/eda6546f4cf748dba6a73c926eec09f0">打开</a></summary>
 
 | # | 模板文件 | 大小 | 修改时间 |
 |---|----------|-----:|----------|
@@ -2272,7 +2272,7 @@
 </details>
 
 <details>
-<summary>📁 零食-3套 — 3 个模板 / 3 张图 · <a href="https://pan.quark.cn/s/180767425d31#/list/share/f399b6a8dc164f24a82187695f7848ce">在夸克打开</a></summary>
+<summary>📁 零食-3套 — 3 个模板 / 3 张图 · <a href="https://pan.quark.cn/s/180767425d31#/list/share/f399b6a8dc164f24a82187695f7848ce">打开</a></summary>
 
 | # | 模板文件 | 大小 | 修改时间 |
 |---|----------|-----:|----------|
@@ -2285,14 +2285,14 @@
 </details>
 
 <details>
-<summary>📁 买家指南---PPT技巧 — 0 个模板 / 20 张图 · <a href="https://pan.quark.cn/s/180767425d31#/list/share/13d2498894eb40dfbd36d562e30cfcce">在夸克打开</a></summary>
+<summary>📁 买家指南---PPT技巧 — 0 个模板 / 20 张图 · <a href="https://pan.quark.cn/s/180767425d31#/list/share/13d2498894eb40dfbd36d562e30cfcce">打开</a></summary>
 
 > 同目录另有 20 个非 PPT 文件（封面图、说明等），见 `data/catalog.json`。
 
 </details>
 
 <details>
-<summary>📁 日式-5套 — 5 个模板 / 5 张图 · <a href="https://pan.quark.cn/s/180767425d31#/list/share/34833e8ce9fb4e9e8ee799ddd862b3f9">在夸克打开</a></summary>
+<summary>📁 日式-5套 — 5 个模板 / 5 张图 · <a href="https://pan.quark.cn/s/180767425d31#/list/share/34833e8ce9fb4e9e8ee799ddd862b3f9">打开</a></summary>
 
 | # | 模板文件 | 大小 | 修改时间 |
 |---|----------|-----:|----------|
@@ -2307,7 +2307,7 @@
 </details>
 
 <details>
-<summary>📁 蔬菜水果-17套 — 17 个模板 / 17 张图 · <a href="https://pan.quark.cn/s/180767425d31#/list/share/2e704e0ce44d4f9981dfb46d9e74b8e0">在夸克打开</a></summary>
+<summary>📁 蔬菜水果-17套 — 17 个模板 / 17 张图 · <a href="https://pan.quark.cn/s/180767425d31#/list/share/2e704e0ce44d4f9981dfb46d9e74b8e0">打开</a></summary>
 
 | # | 模板文件 | 大小 | 修改时间 |
 |---|----------|-----:|----------|
@@ -2334,7 +2334,7 @@
 </details>
 
 <details>
-<summary>📁 通用-21套 — 21 个模板 / 21 张图 · <a href="https://pan.quark.cn/s/180767425d31#/list/share/c171804659fa413597a23c43777d8331">在夸克打开</a></summary>
+<summary>📁 通用-21套 — 21 个模板 / 21 张图 · <a href="https://pan.quark.cn/s/180767425d31#/list/share/c171804659fa413597a23c43777d8331">打开</a></summary>
 
 | # | 模板文件 | 大小 | 修改时间 |
 |---|----------|-----:|----------|
@@ -2365,7 +2365,7 @@
 </details>
 
 <details>
-<summary>📁 西餐-9套 — 9 个模板 / 9 张图 · <a href="https://pan.quark.cn/s/180767425d31#/list/share/8ecd8ed5d5d44e3d893cbe3294f8fffa">在夸克打开</a></summary>
+<summary>📁 西餐-9套 — 9 个模板 / 9 张图 · <a href="https://pan.quark.cn/s/180767425d31#/list/share/8ecd8ed5d5d44e3d893cbe3294f8fffa">打开</a></summary>
 
 | # | 模板文件 | 大小 | 修改时间 |
 |---|----------|-----:|----------|
@@ -2384,7 +2384,7 @@
 </details>
 
 <details>
-<summary>📁 下午茶-4套 — 4 个模板 / 4 张图 · <a href="https://pan.quark.cn/s/180767425d31#/list/share/7596f7f3eabf4254b9bd0b698b77d720">在夸克打开</a></summary>
+<summary>📁 下午茶-4套 — 4 个模板 / 4 张图 · <a href="https://pan.quark.cn/s/180767425d31#/list/share/7596f7f3eabf4254b9bd0b698b77d720">打开</a></summary>
 
 | # | 模板文件 | 大小 | 修改时间 |
 |---|----------|-----:|----------|
@@ -2398,7 +2398,7 @@
 </details>
 
 <details>
-<summary>📁 中餐-20套 — 20 个模板 / 20 张图 · <a href="https://pan.quark.cn/s/180767425d31#/list/share/4d833389e2134feca34d88dcd3ff448e">在夸克打开</a></summary>
+<summary>📁 中餐-20套 — 20 个模板 / 20 张图 · <a href="https://pan.quark.cn/s/180767425d31#/list/share/4d833389e2134feca34d88dcd3ff448e">打开</a></summary>
 
 | # | 模板文件 | 大小 | 修改时间 |
 |---|----------|-----:|----------|
@@ -2430,12 +2430,12 @@
 </details>
 
 <details>
-<summary>📁 压缩包 — 0 个模板 / 37 张图 · <a href="https://pan.quark.cn/s/180767425d31#/list/share/e860328937fc45a18b9dd7a63ce1c496">在夸克打开</a></summary>
+<summary>📁 压缩包 — 0 个模板 / 37 张图 · <a href="https://pan.quark.cn/s/180767425d31#/list/share/e860328937fc45a18b9dd7a63ce1c496">打开</a></summary>
 
 > 同目录另有 17 个非 PPT 文件（封面图、说明等），见 `data/catalog.json`。
 
 <details>
-<summary>📁 买家指南---PPT技巧 — 0 个模板 / 20 张图 · <a href="https://pan.quark.cn/s/180767425d31#/list/share/37a972d236374d90b3cec8783b35c66c">在夸克打开</a></summary>
+<summary>📁 买家指南---PPT技巧 — 0 个模板 / 20 张图 · <a href="https://pan.quark.cn/s/180767425d31#/list/share/37a972d236374d90b3cec8783b35c66c">打开</a></summary>
 
 > 同目录另有 20 个非 PPT 文件（封面图、说明等），见 `data/catalog.json`。
 
@@ -2448,10 +2448,10 @@
 
 ## 46. 200套精选卡通模板
 
-**144 个 PPT 模板** · 共 3 个条目 · 3 张封面/图片 · [在夸克打开该分类](https://pan.quark.cn/s/180767425d31#/list/share/6de2aaf66202489d8a54b51dd4e89dc3)
+**144 个 PPT 模板** · 共 3 个条目 · 3 张封面/图片 · [打开该分类](https://pan.quark.cn/s/180767425d31#/list/share/6de2aaf66202489d8a54b51dd4e89dc3)
 
 <details>
-<summary>📁 美乐蒂 — 3 个模板 / 0 张图 · <a href="https://pan.quark.cn/s/180767425d31#/list/share/47985a16826344afbcef67482465d78c">在夸克打开</a></summary>
+<summary>📁 美乐蒂 — 3 个模板 / 0 张图 · <a href="https://pan.quark.cn/s/180767425d31#/list/share/47985a16826344afbcef67482465d78c">打开</a></summary>
 
 | # | 模板文件 | 大小 | 修改时间 |
 |---|----------|-----:|----------|
@@ -2462,7 +2462,7 @@
 </details>
 
 <details>
-<summary>📁 线条小狗 — 4 个模板 / 0 张图 · <a href="https://pan.quark.cn/s/180767425d31#/list/share/1ddb2db5c0714384adf41a3e5786b42e">在夸克打开</a></summary>
+<summary>📁 线条小狗 — 4 个模板 / 0 张图 · <a href="https://pan.quark.cn/s/180767425d31#/list/share/1ddb2db5c0714384adf41a3e5786b42e">打开</a></summary>
 
 | # | 模板文件 | 大小 | 修改时间 |
 |---|----------|-----:|----------|
@@ -2474,7 +2474,7 @@
 </details>
 
 <details>
-<summary>📁 原创卡通PPT模版合集可爱卡通人物高质量通用模版下单全发幼儿园 — 137 个模板 / 3 张图 · <a href="https://pan.quark.cn/s/180767425d31#/list/share/86b19cb4bdf24661a47c9a86644dbed8">在夸克打开</a></summary>
+<summary>📁 原创卡通PPT模版合集可爱卡通人物高质量通用模版下单全发幼儿园 — 137 个模板 / 3 张图 · <a href="https://pan.quark.cn/s/180767425d31#/list/share/86b19cb4bdf24661a47c9a86644dbed8">打开</a></summary>
 
 | # | 模板文件 | 大小 | 修改时间 |
 |---|----------|-----:|----------|
@@ -2482,7 +2482,7 @@
 | 2 | 217猫和老鼠拒绝内耗.pptx | 1.1 MB | 2024-12-07 |
 
 <details>
-<summary>📁 补 — 78 个模板 / 3 张图 · <a href="https://pan.quark.cn/s/180767425d31#/list/share/a8d4b318a3d7463b8780b6588d5fde33">在夸克打开</a></summary>
+<summary>📁 补 — 78 个模板 / 3 张图 · <a href="https://pan.quark.cn/s/180767425d31#/list/share/a8d4b318a3d7463b8780b6588d5fde33">打开</a></summary>
 
 | # | 模板文件 | 大小 | 修改时间 |
 |---|----------|-----:|----------|
@@ -2570,7 +2570,7 @@
 </details>
 
 <details>
-<summary>📁 卡通PPT合集 — 57 个模板 / 0 张图 · <a href="https://pan.quark.cn/s/180767425d31#/list/share/fb38352e1b4a451c8e9a42dfdea5d11d">在夸克打开</a></summary>
+<summary>📁 卡通PPT合集 — 57 个模板 / 0 张图 · <a href="https://pan.quark.cn/s/180767425d31#/list/share/fb38352e1b4a451c8e9a42dfdea5d11d">打开</a></summary>
 
 | # | 模板文件 | 大小 | 修改时间 |
 |---|----------|-----:|----------|
@@ -2641,7 +2641,7 @@
 
 ## 47. A44-04-年终工作总结汇报PPT
 
-**38 个 PPT 模板** · 共 39 个条目 · 38 张封面/图片 · [在夸克打开该分类](https://pan.quark.cn/s/180767425d31#/list/share/e4aa197f421547a8a0809d951efb8402)
+**38 个 PPT 模板** · 共 39 个条目 · 38 张封面/图片 · [打开该分类](https://pan.quark.cn/s/180767425d31#/list/share/e4aa197f421547a8a0809d951efb8402)
 
 | # | 模板文件 | 大小 | 修改时间 |
 |---|----------|-----:|----------|
@@ -2685,7 +2685,7 @@
 | 38 | 工作总结精选(42).pptx | 4.6 MB | 2024-12-07 |
 
 <details>
-<summary>📁 预览图 — 0 个模板 / 38 张图 · <a href="https://pan.quark.cn/s/180767425d31#/list/share/ba3626fdeac045429503913ff3ae3c02">在夸克打开</a></summary>
+<summary>📁 预览图 — 0 个模板 / 38 张图 · <a href="https://pan.quark.cn/s/180767425d31#/list/share/ba3626fdeac045429503913ff3ae3c02">打开</a></summary>
 
 > 同目录另有 38 个非 PPT 文件（封面图、说明等），见 `data/catalog.json`。
 
@@ -2696,7 +2696,7 @@
 
 ## 48. A44-05-年终工作总结汇报PPT
 
-**160 个 PPT 模板** · 共 161 个条目 · 160 张封面/图片 · [在夸克打开该分类](https://pan.quark.cn/s/180767425d31#/list/share/6d20e48adaea42b6a604f879c7d1458c)
+**160 个 PPT 模板** · 共 161 个条目 · 160 张封面/图片 · [打开该分类](https://pan.quark.cn/s/180767425d31#/list/share/6d20e48adaea42b6a604f879c7d1458c)
 
 | # | 模板文件 | 大小 | 修改时间 |
 |---|----------|-----:|----------|
@@ -2862,7 +2862,7 @@
 | 160 | 年终总结汇报 (165).pptx | 13.0 MB | 2024-12-07 |
 
 <details>
-<summary>📁 预览图 — 0 个模板 / 160 张图 · <a href="https://pan.quark.cn/s/180767425d31#/list/share/584b518f48e343d7a6a6a9c02fb6b194">在夸克打开</a></summary>
+<summary>📁 预览图 — 0 个模板 / 160 张图 · <a href="https://pan.quark.cn/s/180767425d31#/list/share/584b518f48e343d7a6a6a9c02fb6b194">打开</a></summary>
 
 > 同目录另有 160 个非 PPT 文件（封面图、说明等），见 `data/catalog.json`。
 
@@ -2873,7 +2873,7 @@
 
 ## 49. A44-06-年终工作总结汇报PPT
 
-**160 个 PPT 模板** · 共 161 个条目 · 160 张封面/图片 · [在夸克打开该分类](https://pan.quark.cn/s/180767425d31#/list/share/d1e9230343fe45ac88a74107db2f25f5)
+**160 个 PPT 模板** · 共 161 个条目 · 160 张封面/图片 · [打开该分类](https://pan.quark.cn/s/180767425d31#/list/share/d1e9230343fe45ac88a74107db2f25f5)
 
 | # | 模板文件 | 大小 | 修改时间 |
 |---|----------|-----:|----------|
@@ -3039,7 +3039,7 @@
 | 160 | 年终总结汇报 (329).pptx | 4.2 MB | 2024-12-07 |
 
 <details>
-<summary>📁 预览图 — 0 个模板 / 160 张图 · <a href="https://pan.quark.cn/s/180767425d31#/list/share/bc1f57a240114628a62e6873c1896c6d">在夸克打开</a></summary>
+<summary>📁 预览图 — 0 个模板 / 160 张图 · <a href="https://pan.quark.cn/s/180767425d31#/list/share/bc1f57a240114628a62e6873c1896c6d">打开</a></summary>
 
 > 同目录另有 160 个非 PPT 文件（封面图、说明等），见 `data/catalog.json`。
 
@@ -3050,15 +3050,15 @@
 
 ## 50. 高级感简约古风教学
 
-**1404 个 PPT 模板** · 共 26 个条目 · 1446 张封面/图片 · [在夸克打开该分类](https://pan.quark.cn/s/180767425d31#/list/share/eddd8805f9f14bc19da51dc086d412c6)
+**1404 个 PPT 模板** · 共 26 个条目 · 1446 张封面/图片 · [打开该分类](https://pan.quark.cn/s/180767425d31#/list/share/eddd8805f9f14bc19da51dc086d412c6)
 
 > 同目录另有 1 个非 PPT 文件（封面图、说明等），见 `data/catalog.json`。
 
 <details>
-<summary>📁 00详情展示部分 — 53 个模板 / 53 张图 · <a href="https://pan.quark.cn/s/180767425d31#/list/share/c4586172298b4517bb05a9be1da4c94b">在夸克打开</a></summary>
+<summary>📁 00详情展示部分 — 53 个模板 / 53 张图 · <a href="https://pan.quark.cn/s/180767425d31#/list/share/c4586172298b4517bb05a9be1da4c94b">打开</a></summary>
 
 <details>
-<summary>📁 01 莫兰迪 — 6 个模板 / 6 张图 · <a href="https://pan.quark.cn/s/180767425d31#/list/share/54abebbbb75d44898fb170d4b737734c">在夸克打开</a></summary>
+<summary>📁 01 莫兰迪 — 6 个模板 / 6 张图 · <a href="https://pan.quark.cn/s/180767425d31#/list/share/54abebbbb75d44898fb170d4b737734c">打开</a></summary>
 
 | # | 模板文件 | 大小 | 修改时间 |
 |---|----------|-----:|----------|
@@ -3074,7 +3074,7 @@
 </details>
 
 <details>
-<summary>📁 02 极简风格 — 5 个模板 / 5 张图 · <a href="https://pan.quark.cn/s/180767425d31#/list/share/9a5da4e7756a4d34b840ad7f2587167e">在夸克打开</a></summary>
+<summary>📁 02 极简风格 — 5 个模板 / 5 张图 · <a href="https://pan.quark.cn/s/180767425d31#/list/share/9a5da4e7756a4d34b840ad7f2587167e">打开</a></summary>
 
 | # | 模板文件 | 大小 | 修改时间 |
 |---|----------|-----:|----------|
@@ -3089,7 +3089,7 @@
 </details>
 
 <details>
-<summary>📁 03 工作汇报 — 7 个模板 / 7 张图 · <a href="https://pan.quark.cn/s/180767425d31#/list/share/6bc017cd5728416f9aa3194bf6cf2763">在夸克打开</a></summary>
+<summary>📁 03 工作汇报 — 7 个模板 / 7 张图 · <a href="https://pan.quark.cn/s/180767425d31#/list/share/6bc017cd5728416f9aa3194bf6cf2763">打开</a></summary>
 
 | # | 模板文件 | 大小 | 修改时间 |
 |---|----------|-----:|----------|
@@ -3106,7 +3106,7 @@
 </details>
 
 <details>
-<summary>📁 04 毕业答辩 — 5 个模板 / 5 张图 · <a href="https://pan.quark.cn/s/180767425d31#/list/share/829fe7317ab64e44999939e83b2cd69b">在夸克打开</a></summary>
+<summary>📁 04 毕业答辩 — 5 个模板 / 5 张图 · <a href="https://pan.quark.cn/s/180767425d31#/list/share/829fe7317ab64e44999939e83b2cd69b">打开</a></summary>
 
 | # | 模板文件 | 大小 | 修改时间 |
 |---|----------|-----:|----------|
@@ -3121,7 +3121,7 @@
 </details>
 
 <details>
-<summary>📁 05 高端商务 — 5 个模板 / 5 张图 · <a href="https://pan.quark.cn/s/180767425d31#/list/share/604929ffbe4e4f76b94ffb24a776e1ca">在夸克打开</a></summary>
+<summary>📁 05 高端商务 — 5 个模板 / 5 张图 · <a href="https://pan.quark.cn/s/180767425d31#/list/share/604929ffbe4e4f76b94ffb24a776e1ca">打开</a></summary>
 
 | # | 模板文件 | 大小 | 修改时间 |
 |---|----------|-----:|----------|
@@ -3136,7 +3136,7 @@
 </details>
 
 <details>
-<summary>📁 06 中国风 — 5 个模板 / 5 张图 · <a href="https://pan.quark.cn/s/180767425d31#/list/share/c74e1730a9504cc1bfd6e114c09dd5b2">在夸克打开</a></summary>
+<summary>📁 06 中国风 — 5 个模板 / 5 张图 · <a href="https://pan.quark.cn/s/180767425d31#/list/share/c74e1730a9504cc1bfd6e114c09dd5b2">打开</a></summary>
 
 | # | 模板文件 | 大小 | 修改时间 |
 |---|----------|-----:|----------|
@@ -3151,7 +3151,7 @@
 </details>
 
 <details>
-<summary>📁 07 教师课件 — 3 个模板 / 3 张图 · <a href="https://pan.quark.cn/s/180767425d31#/list/share/471a130d7d8e4611b5b80fb49b9bd8e4">在夸克打开</a></summary>
+<summary>📁 07 教师课件 — 3 个模板 / 3 张图 · <a href="https://pan.quark.cn/s/180767425d31#/list/share/471a130d7d8e4611b5b80fb49b9bd8e4">打开</a></summary>
 
 | # | 模板文件 | 大小 | 修改时间 |
 |---|----------|-----:|----------|
@@ -3164,7 +3164,7 @@
 </details>
 
 <details>
-<summary>📁 扁平风格 — 2 个模板 / 2 张图 · <a href="https://pan.quark.cn/s/180767425d31#/list/share/9f9c7550dea54d45b9007405006b6b1e">在夸克打开</a></summary>
+<summary>📁 扁平风格 — 2 个模板 / 2 张图 · <a href="https://pan.quark.cn/s/180767425d31#/list/share/9f9c7550dea54d45b9007405006b6b1e">打开</a></summary>
 
 | # | 模板文件 | 大小 | 修改时间 |
 |---|----------|-----:|----------|
@@ -3176,7 +3176,7 @@
 </details>
 
 <details>
-<summary>📁 开题报告 — 2 个模板 / 2 张图 · <a href="https://pan.quark.cn/s/180767425d31#/list/share/726fd34d14944194aacb24cef6c025ef">在夸克打开</a></summary>
+<summary>📁 开题报告 — 2 个模板 / 2 张图 · <a href="https://pan.quark.cn/s/180767425d31#/list/share/726fd34d14944194aacb24cef6c025ef">打开</a></summary>
 
 | # | 模板文件 | 大小 | 修改时间 |
 |---|----------|-----:|----------|
@@ -3188,7 +3188,7 @@
 </details>
 
 <details>
-<summary>📁 欧美 — 2 个模板 / 2 张图 · <a href="https://pan.quark.cn/s/180767425d31#/list/share/f3272b2defcf426c9153e8e46f946f59">在夸克打开</a></summary>
+<summary>📁 欧美 — 2 个模板 / 2 张图 · <a href="https://pan.quark.cn/s/180767425d31#/list/share/f3272b2defcf426c9153e8e46f946f59">打开</a></summary>
 
 | # | 模板文件 | 大小 | 修改时间 |
 |---|----------|-----:|----------|
@@ -3200,7 +3200,7 @@
 </details>
 
 <details>
-<summary>📁 培训课件 — 2 个模板 / 2 张图 · <a href="https://pan.quark.cn/s/180767425d31#/list/share/8e10d1fc62b84fe18473bf42f0f351a3">在夸克打开</a></summary>
+<summary>📁 培训课件 — 2 个模板 / 2 张图 · <a href="https://pan.quark.cn/s/180767425d31#/list/share/8e10d1fc62b84fe18473bf42f0f351a3">打开</a></summary>
 
 | # | 模板文件 | 大小 | 修改时间 |
 |---|----------|-----:|----------|
@@ -3212,7 +3212,7 @@
 </details>
 
 <details>
-<summary>📁 清新文艺 — 2 个模板 / 2 张图 · <a href="https://pan.quark.cn/s/180767425d31#/list/share/87eae6170a294b729fe644a640f13344">在夸克打开</a></summary>
+<summary>📁 清新文艺 — 2 个模板 / 2 张图 · <a href="https://pan.quark.cn/s/180767425d31#/list/share/87eae6170a294b729fe644a640f13344">打开</a></summary>
 
 | # | 模板文件 | 大小 | 修改时间 |
 |---|----------|-----:|----------|
@@ -3224,7 +3224,7 @@
 </details>
 
 <details>
-<summary>📁 求职简历 — 3 个模板 / 3 张图 · <a href="https://pan.quark.cn/s/180767425d31#/list/share/85f2ad3836214246b3e4ede569c9c3a5">在夸克打开</a></summary>
+<summary>📁 求职简历 — 3 个模板 / 3 张图 · <a href="https://pan.quark.cn/s/180767425d31#/list/share/85f2ad3836214246b3e4ede569c9c3a5">打开</a></summary>
 
 | # | 模板文件 | 大小 | 修改时间 |
 |---|----------|-----:|----------|
@@ -3237,7 +3237,7 @@
 </details>
 
 <details>
-<summary>📁 时尚风格 — 2 个模板 / 2 张图 · <a href="https://pan.quark.cn/s/180767425d31#/list/share/642d1eaee3844ff8b67837e8f91e50a6">在夸克打开</a></summary>
+<summary>📁 时尚风格 — 2 个模板 / 2 张图 · <a href="https://pan.quark.cn/s/180767425d31#/list/share/642d1eaee3844ff8b67837e8f91e50a6">打开</a></summary>
 
 | # | 模板文件 | 大小 | 修改时间 |
 |---|----------|-----:|----------|
@@ -3249,7 +3249,7 @@
 </details>
 
 <details>
-<summary>📁 项目策划 — 2 个模板 / 2 张图 · <a href="https://pan.quark.cn/s/180767425d31#/list/share/3b330941afa44d6a810e82872067a311">在夸克打开</a></summary>
+<summary>📁 项目策划 — 2 个模板 / 2 张图 · <a href="https://pan.quark.cn/s/180767425d31#/list/share/3b330941afa44d6a810e82872067a311">打开</a></summary>
 
 | # | 模板文件 | 大小 | 修改时间 |
 |---|----------|-----:|----------|
@@ -3263,7 +3263,7 @@
 </details>
 
 <details>
-<summary>📁 01莫兰迪PPT — 100 个模板 / 100 张图 · <a href="https://pan.quark.cn/s/180767425d31#/list/share/135ccb800bc24761be487ae521fa2008">在夸克打开</a></summary>
+<summary>📁 01莫兰迪PPT — 100 个模板 / 100 张图 · <a href="https://pan.quark.cn/s/180767425d31#/list/share/135ccb800bc24761be487ae521fa2008">打开</a></summary>
 
 | # | 模板文件 | 大小 | 修改时间 |
 |---|----------|-----:|----------|
@@ -3373,7 +3373,7 @@
 </details>
 
 <details>
-<summary>📁 02极简风格 — 52 个模板 / 52 张图 · <a href="https://pan.quark.cn/s/180767425d31#/list/share/f1cbb3db60c043ccb1b243e34a1c8077">在夸克打开</a></summary>
+<summary>📁 02极简风格 — 52 个模板 / 52 张图 · <a href="https://pan.quark.cn/s/180767425d31#/list/share/f1cbb3db60c043ccb1b243e34a1c8077">打开</a></summary>
 
 | # | 模板文件 | 大小 | 修改时间 |
 |---|----------|-----:|----------|
@@ -3435,7 +3435,7 @@
 </details>
 
 <details>
-<summary>📁 3工作汇报 — 197 个模板 / 197 张图 · <a href="https://pan.quark.cn/s/180767425d31#/list/share/4bb88441b7b3405da08f0447b8e3096a">在夸克打开</a></summary>
+<summary>📁 3工作汇报 — 197 个模板 / 197 张图 · <a href="https://pan.quark.cn/s/180767425d31#/list/share/4bb88441b7b3405da08f0447b8e3096a">打开</a></summary>
 
 | # | 模板文件 | 大小 | 修改时间 |
 |---|----------|-----:|----------|
@@ -3642,7 +3642,7 @@
 </details>
 
 <details>
-<summary>📁 4毕业答辩 — 109 个模板 / 109 张图 · <a href="https://pan.quark.cn/s/180767425d31#/list/share/4caa9e5b87314de6876055958222d3e4">在夸克打开</a></summary>
+<summary>📁 4毕业答辩 — 109 个模板 / 109 张图 · <a href="https://pan.quark.cn/s/180767425d31#/list/share/4caa9e5b87314de6876055958222d3e4">打开</a></summary>
 
 | # | 模板文件 | 大小 | 修改时间 |
 |---|----------|-----:|----------|
@@ -3761,7 +3761,7 @@
 </details>
 
 <details>
-<summary>📁 5高端商务 — 105 个模板 / 105 张图 · <a href="https://pan.quark.cn/s/180767425d31#/list/share/f486cd37e1cf47cfa2aefebb3a359d7d">在夸克打开</a></summary>
+<summary>📁 5高端商务 — 105 个模板 / 105 张图 · <a href="https://pan.quark.cn/s/180767425d31#/list/share/f486cd37e1cf47cfa2aefebb3a359d7d">打开</a></summary>
 
 | # | 模板文件 | 大小 | 修改时间 |
 |---|----------|-----:|----------|
@@ -3876,7 +3876,7 @@
 </details>
 
 <details>
-<summary>📁 6中国风格 — 92 个模板 / 133 张图 · <a href="https://pan.quark.cn/s/180767425d31#/list/share/fd3fd1457c414c5dab900224f7e47e4b">在夸克打开</a></summary>
+<summary>📁 6中国风格 — 92 个模板 / 133 张图 · <a href="https://pan.quark.cn/s/180767425d31#/list/share/fd3fd1457c414c5dab900224f7e47e4b">打开</a></summary>
 
 | # | 模板文件 | 大小 | 修改时间 |
 |---|----------|-----:|----------|
@@ -3976,7 +3976,7 @@
 > 同目录另有 92 个非 PPT 文件（封面图、说明等），见 `data/catalog.json`。
 
 <details>
-<summary>📁 1-字体文件（请先安装） — 0 个模板 / 41 张图 · <a href="https://pan.quark.cn/s/180767425d31#/list/share/9d01532874ad41378c8cac94e3107587">在夸克打开</a></summary>
+<summary>📁 1-字体文件（请先安装） — 0 个模板 / 41 张图 · <a href="https://pan.quark.cn/s/180767425d31#/list/share/9d01532874ad41378c8cac94e3107587">打开</a></summary>
 
 > 同目录另有 41 个非 PPT 文件（封面图、说明等），见 `data/catalog.json`。
 
@@ -3985,7 +3985,7 @@
 </details>
 
 <details>
-<summary>📁 7教师课件 — 55 个模板 / 55 张图 · <a href="https://pan.quark.cn/s/180767425d31#/list/share/3d7c2515f6d94f36996c928c3f1421ae">在夸克打开</a></summary>
+<summary>📁 7教师课件 — 55 个模板 / 55 张图 · <a href="https://pan.quark.cn/s/180767425d31#/list/share/3d7c2515f6d94f36996c928c3f1421ae">打开</a></summary>
 
 | # | 模板文件 | 大小 | 修改时间 |
 |---|----------|-----:|----------|
@@ -4050,7 +4050,7 @@
 </details>
 
 <details>
-<summary>📁 8简历求职 — 65 个模板 / 65 张图 · <a href="https://pan.quark.cn/s/180767425d31#/list/share/ec7503798b114c0f98d77b43824db64c">在夸克打开</a></summary>
+<summary>📁 8简历求职 — 65 个模板 / 65 张图 · <a href="https://pan.quark.cn/s/180767425d31#/list/share/ec7503798b114c0f98d77b43824db64c">打开</a></summary>
 
 | # | 模板文件 | 大小 | 修改时间 |
 |---|----------|-----:|----------|
@@ -4125,7 +4125,7 @@
 </details>
 
 <details>
-<summary>📁 9清新文艺 — 87 个模板 / 87 张图 · <a href="https://pan.quark.cn/s/180767425d31#/list/share/bc9e4a1947a54a06adf6ff79959b9fde">在夸克打开</a></summary>
+<summary>📁 9清新文艺 — 87 个模板 / 87 张图 · <a href="https://pan.quark.cn/s/180767425d31#/list/share/bc9e4a1947a54a06adf6ff79959b9fde">打开</a></summary>
 
 | # | 模板文件 | 大小 | 修改时间 |
 |---|----------|-----:|----------|
@@ -4222,7 +4222,7 @@
 </details>
 
 <details>
-<summary>📁 10欧美风格 — 36 个模板 / 36 张图 · <a href="https://pan.quark.cn/s/180767425d31#/list/share/5457fff0cf094fdda6d13f93800243ca">在夸克打开</a></summary>
+<summary>📁 10欧美风格 — 36 个模板 / 36 张图 · <a href="https://pan.quark.cn/s/180767425d31#/list/share/5457fff0cf094fdda6d13f93800243ca">打开</a></summary>
 
 | # | 模板文件 | 大小 | 修改时间 |
 |---|----------|-----:|----------|
@@ -4268,7 +4268,7 @@
 </details>
 
 <details>
-<summary>📁 11培训课件 — 22 个模板 / 22 张图 · <a href="https://pan.quark.cn/s/180767425d31#/list/share/4f76e99a4a05455881edef8ad9530ba9">在夸克打开</a></summary>
+<summary>📁 11培训课件 — 22 个模板 / 22 张图 · <a href="https://pan.quark.cn/s/180767425d31#/list/share/4f76e99a4a05455881edef8ad9530ba9">打开</a></summary>
 
 | # | 模板文件 | 大小 | 修改时间 |
 |---|----------|-----:|----------|
@@ -4300,7 +4300,7 @@
 </details>
 
 <details>
-<summary>📁 12扁平风格 — 59 个模板 / 58 张图 · <a href="https://pan.quark.cn/s/180767425d31#/list/share/c29d3955e2df49ab8da378d2735f8140">在夸克打开</a></summary>
+<summary>📁 12扁平风格 — 59 个模板 / 58 张图 · <a href="https://pan.quark.cn/s/180767425d31#/list/share/c29d3955e2df49ab8da378d2735f8140">打开</a></summary>
 
 | # | 模板文件 | 大小 | 修改时间 |
 |---|----------|-----:|----------|
@@ -4369,7 +4369,7 @@
 </details>
 
 <details>
-<summary>📁 13快闪风格 — 40 个模板 / 41 张图 · <a href="https://pan.quark.cn/s/180767425d31#/list/share/8c4e4e1e33694b759c8b8a954b29206f">在夸克打开</a></summary>
+<summary>📁 13快闪风格 — 40 个模板 / 41 张图 · <a href="https://pan.quark.cn/s/180767425d31#/list/share/8c4e4e1e33694b759c8b8a954b29206f">打开</a></summary>
 
 | # | 模板文件 | 大小 | 修改时间 |
 |---|----------|-----:|----------|
@@ -4419,7 +4419,7 @@
 </details>
 
 <details>
-<summary>📁 15时尚风格 — 73 个模板 / 73 张图 · <a href="https://pan.quark.cn/s/180767425d31#/list/share/3944c6b3934e4969af440f904fb8ffe3">在夸克打开</a></summary>
+<summary>📁 15时尚风格 — 73 个模板 / 73 张图 · <a href="https://pan.quark.cn/s/180767425d31#/list/share/3944c6b3934e4969af440f904fb8ffe3">打开</a></summary>
 
 | # | 模板文件 | 大小 | 修改时间 |
 |---|----------|-----:|----------|
@@ -4502,7 +4502,7 @@
 </details>
 
 <details>
-<summary>📁 16开题报告 — 17 个模板 / 17 张图 · <a href="https://pan.quark.cn/s/180767425d31#/list/share/2e492676b83d49d7aa1fbc239a244e91">在夸克打开</a></summary>
+<summary>📁 16开题报告 — 17 个模板 / 17 张图 · <a href="https://pan.quark.cn/s/180767425d31#/list/share/2e492676b83d49d7aa1fbc239a244e91">打开</a></summary>
 
 | # | 模板文件 | 大小 | 修改时间 |
 |---|----------|-----:|----------|
@@ -4529,7 +4529,7 @@
 </details>
 
 <details>
-<summary>📁 创意风格 — 42 个模板 / 42 张图 · <a href="https://pan.quark.cn/s/180767425d31#/list/share/83494e904867408386d70a88e289cf25">在夸克打开</a></summary>
+<summary>📁 创意风格 — 42 个模板 / 42 张图 · <a href="https://pan.quark.cn/s/180767425d31#/list/share/83494e904867408386d70a88e289cf25">打开</a></summary>
 
 | # | 模板文件 | 大小 | 修改时间 |
 |---|----------|-----:|----------|
@@ -4581,7 +4581,7 @@
 </details>
 
 <details>
-<summary>📁 节日庆典 — 71 个模板 / 71 张图 · <a href="https://pan.quark.cn/s/180767425d31#/list/share/2db9ec75727241038aa909fde9b69f6f">在夸克打开</a></summary>
+<summary>📁 节日庆典 — 71 个模板 / 71 张图 · <a href="https://pan.quark.cn/s/180767425d31#/list/share/2db9ec75727241038aa909fde9b69f6f">打开</a></summary>
 
 | # | 模板文件 | 大小 | 修改时间 |
 |---|----------|-----:|----------|
@@ -4662,7 +4662,7 @@
 </details>
 
 <details>
-<summary>📁 企业宣传 — 37 个模板 / 37 张图 · <a href="https://pan.quark.cn/s/180767425d31#/list/share/4bba65e007a74d3a9b2568cb7a214a0d">在夸克打开</a></summary>
+<summary>📁 企业宣传 — 37 个模板 / 37 张图 · <a href="https://pan.quark.cn/s/180767425d31#/list/share/4bba65e007a74d3a9b2568cb7a214a0d">打开</a></summary>
 
 | # | 模板文件 | 大小 | 修改时间 |
 |---|----------|-----:|----------|
@@ -4709,7 +4709,7 @@
 </details>
 
 <details>
-<summary>📁 述职报告 — 16 个模板 / 16 张图 · <a href="https://pan.quark.cn/s/180767425d31#/list/share/923dc138787a42a5ae72465655d8efe2">在夸克打开</a></summary>
+<summary>📁 述职报告 — 16 个模板 / 16 张图 · <a href="https://pan.quark.cn/s/180767425d31#/list/share/923dc138787a42a5ae72465655d8efe2">打开</a></summary>
 
 | # | 模板文件 | 大小 | 修改时间 |
 |---|----------|-----:|----------|
@@ -4735,7 +4735,7 @@
 </details>
 
 <details>
-<summary>📁 图表风格 — 17 个模板 / 17 张图 · <a href="https://pan.quark.cn/s/180767425d31#/list/share/06f32b06f9ee4e41a402b60153f8bd92">在夸克打开</a></summary>
+<summary>📁 图表风格 — 17 个模板 / 17 张图 · <a href="https://pan.quark.cn/s/180767425d31#/list/share/06f32b06f9ee4e41a402b60153f8bd92">打开</a></summary>
 
 | # | 模板文件 | 大小 | 修改时间 |
 |---|----------|-----:|----------|
@@ -4762,7 +4762,7 @@
 </details>
 
 <details>
-<summary>📁 图标系列 — 18 个模板 / 18 张图 · <a href="https://pan.quark.cn/s/180767425d31#/list/share/42a959003348483db4bda2453b3c6f09">在夸克打开</a></summary>
+<summary>📁 图标系列 — 18 个模板 / 18 张图 · <a href="https://pan.quark.cn/s/180767425d31#/list/share/42a959003348483db4bda2453b3c6f09">打开</a></summary>
 
 | # | 模板文件 | 大小 | 修改时间 |
 |---|----------|-----:|----------|
@@ -4790,7 +4790,7 @@
 </details>
 
 <details>
-<summary>📁 相册纪念 — 4 个模板 / 4 张图 · <a href="https://pan.quark.cn/s/180767425d31#/list/share/ce28513b9e04490dacaf316452e7c134">在夸克打开</a></summary>
+<summary>📁 相册纪念 — 4 个模板 / 4 张图 · <a href="https://pan.quark.cn/s/180767425d31#/list/share/ce28513b9e04490dacaf316452e7c134">打开</a></summary>
 
 | # | 模板文件 | 大小 | 修改时间 |
 |---|----------|-----:|----------|
@@ -4804,7 +4804,7 @@
 </details>
 
 <details>
-<summary>📁 星空风格 — 19 个模板 / 19 张图 · <a href="https://pan.quark.cn/s/180767425d31#/list/share/a496e15fa82846a19834ff5325887ca2">在夸克打开</a></summary>
+<summary>📁 星空风格 — 19 个模板 / 19 张图 · <a href="https://pan.quark.cn/s/180767425d31#/list/share/a496e15fa82846a19834ff5325887ca2">打开</a></summary>
 
 | # | 模板文件 | 大小 | 修改时间 |
 |---|----------|-----:|----------|
@@ -4833,7 +4833,7 @@
 </details>
 
 <details>
-<summary>📁 自我介绍 — 18 个模板 / 18 张图 · <a href="https://pan.quark.cn/s/180767425d31#/list/share/8d714ff69d904439a01195579feaae36">在夸克打开</a></summary>
+<summary>📁 自我介绍 — 18 个模板 / 18 张图 · <a href="https://pan.quark.cn/s/180767425d31#/list/share/8d714ff69d904439a01195579feaae36">打开</a></summary>
 
 | # | 模板文件 | 大小 | 修改时间 |
 |---|----------|-----:|----------|
@@ -4865,7 +4865,7 @@
 
 ## 51. H023-项目策划
 
-**47 个 PPT 模板** · 共 48 个条目 · 47 张封面/图片 · [在夸克打开该分类](https://pan.quark.cn/s/180767425d31#/list/share/552df0bf74284047863a49c0953888c1)
+**47 个 PPT 模板** · 共 48 个条目 · 47 张封面/图片 · [打开该分类](https://pan.quark.cn/s/180767425d31#/list/share/552df0bf74284047863a49c0953888c1)
 
 | # | 模板文件 | 大小 | 修改时间 |
 |---|----------|-----:|----------|
@@ -4918,7 +4918,7 @@
 | 47 | 项目策划(47).pptx | 27.4 MB | 2024-12-07 |
 
 <details>
-<summary>📁 预览图 — 0 个模板 / 47 张图 · <a href="https://pan.quark.cn/s/180767425d31#/list/share/439a671171924aa8aa1cb8a874c14460">在夸克打开</a></summary>
+<summary>📁 预览图 — 0 个模板 / 47 张图 · <a href="https://pan.quark.cn/s/180767425d31#/list/share/439a671171924aa8aa1cb8a874c14460">打开</a></summary>
 
 > 同目录另有 47 个非 PPT 文件（封面图、说明等），见 `data/catalog.json`。
 
@@ -4929,7 +4929,7 @@
 
 ## 52. PPT源文件
 
-**134 个 PPT 模板** · 共 265 个条目 · 131 张封面/图片 · [在夸克打开该分类](https://pan.quark.cn/s/180767425d31#/list/share/4433dfe967bd46db850591d957c383d9)
+**134 个 PPT 模板** · 共 265 个条目 · 131 张封面/图片 · [打开该分类](https://pan.quark.cn/s/180767425d31#/list/share/4433dfe967bd46db850591d957c383d9)
 
 | # | 模板文件 | 大小 | 修改时间 |
 |---|----------|-----:|----------|

@@ -93,7 +93,7 @@ function renderDir(dir, depth) {
     const nestedImg = imgCount(sub);
     lines.push(
       `${pad}<details>`,
-      `${pad}<summary>📁 ${esc(sub.name)} — ${nestedPpt} 个模板 / ${nestedImg} 张图 · <a href="${folderUrl(sub.fid)}">在夸克打开</a></summary>`,
+      `${pad}<summary>📁 ${esc(sub.name)} — ${nestedPpt} 个模板 / ${nestedImg} 张图 · <a href="${folderUrl(sub.fid)}">打开</a></summary>`,
       '',
     );
     lines.push(renderDir(sub, depth));
@@ -112,7 +112,7 @@ const header = `# 完整目录
 >
 > 统计：**${root.children.length} 个分类**、**${totalFiles} 个文件**（其中 PPT ${pptOf(root).length} 个）、${totalDirs} 个目录、${(totalBytes / 1024 ** 3).toFixed(1)} GB。
 >
-> 说明：本页只列出**PPT 模板文件**；封面图与其他文件请见 [data/catalog.json](../data/catalog.json)。所有链接均指向夸克分享页，仓库不存储、不分发任何文件。
+> 说明：本页只列出**PPT 模板文件**；封面图与其他文件请见 [data/catalog.json](../data/catalog.json)。所有链接均指向原始分享页，仓库不存储、不分发任何文件。
 
 ## 分类索引
 
@@ -127,7 +127,7 @@ const body = root.children
     const imgs = imgCount(cat);
     return `## ${i + 1}. ${esc(cat.name)}
 
-**${ppt.length} 个 PPT 模板** · 共 ${cat.childCount ?? '?'} 个条目${imgs ? ` · ${imgs} 张封面/图片` : ''} · [在夸克打开该分类](${folderUrl(cat.fid)})
+**${ppt.length} 个 PPT 模板** · 共 ${cat.childCount ?? '?'} 个条目${imgs ? ` · ${imgs} 张封面/图片` : ''} · [打开该分类](${folderUrl(cat.fid)})
 
 ${renderDir(cat, 0)}
 `;

@@ -18,8 +18,8 @@ CATALOG = os.path.join(ROOT, "data", "catalog.json")
 MANIFEST = os.path.join(OUT, "manifest.json")
 
 FONT_BOLD = "/System/Library/Fonts/PingFang.ttc"
-W, H = 480, 300
-S = 2  # 超采样倍数
+W, H = 240, 150
+S = 3  # 超采样倍数
 PPT_EXT = {".ppt", ".pptx", ".pps", ".ppsx", ".potx", ".key"}
 
 
@@ -91,23 +91,23 @@ def main():
 
         # 序号徽标
         badge = f"{idx:02d}"
-        bf = font(15, False)
+        bf = font(11, False)
         bw = d.textlength(badge, font=bf)
-        d.rounded_rectangle([26 * S, 26 * S, 26 * S + bw + 26 * S, 26 * S + 34 * S],
-                            radius=21 * S, fill=(255, 255, 255, 210))
-        d.text((26 * S + 13 * S, 26 * S + 8 * S), badge, font=bf, fill=(17, 24, 39))
+        d.rounded_rectangle([14 * S, 14 * S, 14 * S + bw + 16 * S, 14 * S + 20 * S],
+                            radius=13 * S, fill=(255, 255, 255, 215))
+        d.text((14 * S + 8 * S, 14 * S + 3 * S), badge, font=bf, fill=(17, 24, 39))
 
         # 分类名 + 数量
         name = item["name"]
-        nf = font(23, True)
-        name_size = 23 * S
-        while d.textlength(name, font=nf) > W2 - 52 * S and name_size > 14 * S:
+        nf = font(20, True)
+        name_size = 20 * S
+        while d.textlength(name, font=nf) > W2 - 34 * S and name_size > 10 * S:
             name_size -= 1 * S
             nf = ImageFont.truetype(FONT_BOLD, name_size, index=1)
-        d.text((26 * S + 2 * S, H2 - 66 * S + 2 * S), name, font=nf, fill=(0, 0, 0, 160))
-        d.text((26 * S, H2 - 66 * S), name, font=nf, fill="#FFFFFF")
-        d.text((26 * S + 2 * S, H2 - 34 * S + 2 * S), f"{counts.get(idx, 0)} 套模板", font=font(15, False), fill=(0, 0, 0, 140))
-        d.text((26 * S, H2 - 34 * S), f"{counts.get(idx, 0)} 套模板", font=font(15, False), fill="#D5DEEC")
+        d.text((16 * S + 1 * S, H2 - 50 * S + 1 * S), name, font=nf, fill=(0, 0, 0, 160))
+        d.text((16 * S, H2 - 50 * S), name, font=nf, fill="#FFFFFF")
+        d.text((16 * S + 1 * S, H2 - 26 * S + 1 * S), f"{counts.get(idx, 0)} 套模板", font=font(11, False), fill=(0, 0, 0, 140))
+        d.text((16 * S, H2 - 26 * S), f"{counts.get(idx, 0)} 套模板", font=font(11, False), fill="#D5DEEC")
 
         # 圆角 + 描边
         mask = rounded_mask(W2, H2, 18 * S)

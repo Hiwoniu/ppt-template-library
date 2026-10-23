@@ -8,8 +8,8 @@
 |---|---|---|
 | `hero.png` | README 顶部横幅（6 张精选封面错落拼贴 + 文案） | 1600×620 |
 | `featured-01.webp` … `featured-06.webp` | 精选六套的封面 | 750×422 |
-| `styles/*.webp` | 「风格掠影」12 张分类代表封面 | 750×422 |
-| `categories/c01.webp` … `c52.webp` | 「分类墙」52 张卡片（封面 + 名称 + 数量） | 480×300 |
+| `styles/*.webp` | 「风格掠影」12 张分类代表封面 | 300×169 |
+| `categories/c01.webp` … `c52.webp` | 「分类墙」52 张卡片（封面 + 名称 + 数量） | 240×150 |
 | `categories/manifest.json` | 卡片清单：序号、分类名、fid、取样文件 | — |
 | `categories/raw/` | 原始缩略图（中间产物，已 gitignore） | — |
 
@@ -36,7 +36,7 @@ cp ~/Desktop/莫兰迪.webp docs/images/featured-01.webp
 
 建议：
 
-- 保持 16:9，精选建议 750×422、卡片建议 480×300；
+- 保持 16:9，精选建议 750×422、卡片建议 240×150；
 - 单张控制在 200 KB 内；
 - 若换成 `.png`，需要同步改 README 里的引用路径。
 
